@@ -1,0 +1,4822 @@
+{
+  "above-the-ring grip": {
+    "word": "above-the-ring grip",
+    "definition": "A grip used when the gymnast supports the body above the rings instead of hanging below them.",
+    "variations": [
+      "above-the-ring grip",
+      "above the ring grip",
+      "above-the-ring grips"
+    ],
+    "emoji": "⭕⬆️✋",
+    "id": "gl001"
+  },
+  "accelerate": {
+    "word": "accelerate",
+    "definition": "to increase speed.",
+    "variations": [
+      "accelerate",
+      "accelerates",
+      "accelerating",
+      "accelerated",
+      "acceleration"
+    ],
+    "emoji": "⚡🏃",
+    "id": "gl002"
+  },
+  "accuracy": {
+    "word": "accuracy",
+    "definition": "the ability to do something correctly and hit the intended target",
+    "variations": [
+      "accurate",
+      "accuracy"
+    ],
+    "emoji": "🎯✅",
+    "id": "gl003"
+  },
+  "acrobatic gymnastics": {
+    "word": "acrobatic gymnastics",
+    "definition": "a type of gymnastics where partners or groups perform balance and lifting skills together",
+    "variations": [
+      "acrobatic gymnastics"
+    ],
+    "emoji": "🤸👥",
+    "id": "gl004"
+  },
+  "aerobic gymnastics": {
+    "word": "aerobic gymnastics",
+    "definition": "a type of gymnastics with continuous energetic movements performed to show strength and fitness",
+    "variations": [
+      "aerobic gymnastics"
+    ],
+    "emoji": "💪🤸",
+    "id": "gl005"
+  },
+  "afloat": {
+    "word": "afloat",
+    "definition": "floating on water and not sinking",
+    "variations": [
+      "afloat"
+    ],
+    "emoji": "🛟🏊",
+    "id": "gl006"
+  },
+  "aggressive": {
+    "word": "aggressive",
+    "definition": "ready to fight, attack, or behave in a forceful and unfriendly way",
+    "variations": [
+      "aggressive",
+      "aggressively"
+    ],
+    "emoji": "😠⚡",
+    "id": "gl007"
+  },
+  "agility": {
+    "word": "agility",
+    "definition": "the ability to move quickly and easily",
+    "variations": [
+      "agility",
+      "agile"
+    ],
+    "emoji": "⚡🏃",
+    "id": "gl008"
+  },
+  "airborne": {
+    "word": "airborne",
+    "definition": "in the air after leaving the ground",
+    "variations": [
+      "airborne"
+    ],
+    "emoji": "⬆️🪽",
+    "id": "gl009"
+  },
+  "aligned": {
+    "word": "aligned",
+    "definition": "kept in a straight and correct position",
+    "variations": [
+      "align",
+      "aligns",
+      "aligned",
+      "aligning",
+      "alignment"
+    ],
+    "emoji": "📏➡️",
+    "id": "gl010"
+  },
+  "alignment": {
+    "word": "alignment",
+    "definition": "the correct straight position of body parts in relation to each other.",
+    "variations": [
+      "alignment",
+      "alignments"
+    ],
+    "emoji": "📏🧍",
+    "id": "gl011"
+  },
+  "American grip": {
+    "word": "American grip",
+    "definition": "a way of holding the javelin with the index finger at the edge of the cord and the thumb below",
+    "variations": [
+      "American grip",
+      "American grips"
+    ],
+    "emoji": "✋🗡️",
+    "id": "gl012"
+  },
+  "angle": {
+    "word": "angle",
+    "definition": "the direction or slant at which something moves or is placed",
+    "variations": [
+      "angle",
+      "angles"
+    ],
+    "emoji": "📐↗️",
+    "id": "gl013"
+  },
+  "apparatus": {
+    "word": "apparatus",
+    "definition": "a piece of equipment used in gymnastics, such as bars, rings, or beam",
+    "variations": [
+      "apparatus",
+      "apparatuses"
+    ],
+    "emoji": "🏟️🤸",
+    "id": "gl014"
+  },
+  "apparel": {
+    "word": "apparel",
+    "definition": "clothing worn for a particular activity or sport",
+    "variations": [
+      "apparel"
+    ],
+    "emoji": "👕🎽",
+    "id": "gl015"
+  },
+  "approach run": {
+    "word": "approach run",
+    "definition": "the run an athlete makes before take-off to build speed for the jump.",
+    "variations": [
+      "approach run",
+      "approach runs"
+    ],
+    "emoji": "🏃⚡",
+    "id": "gl016"
+  },
+  "aquatic": {
+    "word": "aquatic",
+    "definition": "related to water",
+    "variations": [
+      "aquatic"
+    ],
+    "emoji": "💧🌊",
+    "id": "gl017"
+  },
+  "arabesque hold": {
+    "word": "arabesque hold",
+    "definition": "a balance position where the gymnast stands on one leg and lifts the other leg straight behind.",
+    "variations": [
+      "arabesque hold",
+      "arabesque holds"
+    ],
+    "emoji": "🤸🦵",
+    "id": "gl018"
+  },
+  "arc": {
+    "word": "arc",
+    "definition": "a curved line or shape.",
+    "variations": [
+      "arc",
+      "arcs"
+    ],
+    "emoji": "🌙📐",
+    "id": "gl019"
+  },
+  "arch": {
+    "word": "arch",
+    "definition": "to curve the body backward in a rounded shape",
+    "variations": [
+      "arch",
+      "arches",
+      "arching",
+      "arched"
+    ],
+    "emoji": "🌈🧍",
+    "id": "gl020"
+  },
+  "artistic gymnastics": {
+    "word": "artistic gymnastics",
+    "definition": "a type of gymnastics that focuses on skilled movements, strength, balance, and performance on apparatus",
+    "variations": [
+      "artistic gymnastics"
+    ],
+    "emoji": "🤸🎭",
+    "id": "gl021"
+  },
+  "athletics": {
+    "word": "athletics",
+    "definition": "sports events that include running, jumping, and throwing.",
+    "variations": [
+      "athletics"
+    ],
+    "emoji": "🏃🤾🏅",
+    "id": "gl022"
+  },
+  "attacking": {
+    "word": "attacking",
+    "definition": "trying to move forward, create chances, and score",
+    "variations": [
+      "attack",
+      "attacks",
+      "attacked",
+      "attacking"
+    ],
+    "emoji": "⚡🏀",
+    "id": "gl023"
+  },
+  "attacking positions": {
+    "word": "attacking positions",
+    "definition": "player roles that help move the ball toward the goal and create chances to score",
+    "variations": [
+      "attacking position",
+      "attacking positions"
+    ],
+    "emoji": "🥅🏐",
+    "id": "gl024"
+  },
+  "attacking team": {
+    "word": "attacking team",
+    "definition": "the team trying to move forward and score",
+    "variations": [
+      "attacking team",
+      "attacking teams"
+    ],
+    "emoji": "⚡🥅",
+    "id": "gl025"
+  },
+  "attacking third": {
+    "word": "attacking third",
+    "definition": "the part of the court nearest the opponent’s goal where a team tries to score",
+    "variations": [
+      "attacking third",
+      "attacking thirds"
+    ],
+    "emoji": "🥅➡️",
+    "id": "gl026"
+  },
+  "attire": {
+    "word": "attire",
+    "definition": "the clothes worn for a particular activity.",
+    "variations": [
+      "attire"
+    ],
+    "emoji": "👕🩳",
+    "id": "gl027"
+  },
+  "axis": {
+    "word": "axis",
+    "definition": "an imaginary central line around which something turns",
+    "variations": [
+      "axis",
+      "axes"
+    ],
+    "emoji": "📍🔄",
+    "id": "gl028"
+  },
+  "back handspring": {
+    "word": "back handspring",
+    "definition": "a gymnastics skill where the gymnast jumps backward onto the hands and then lands on the feet.",
+    "variations": [
+      "back handspring",
+      "back handsprings"
+    ],
+    "emoji": "🤸🔙",
+    "id": "gl029"
+  },
+  "back support": {
+    "word": "back support",
+    "definition": "a position on the bars where the gymnast faces away and supports the body with straight arms behind them.",
+    "variations": [
+      "back support",
+      "back supports"
+    ],
+    "emoji": "🤸🔙",
+    "id": "gl030"
+  },
+  "back tuck": {
+    "word": "back tuck",
+    "definition": "A back tuck is a backward flipping movement done with the knees tucked close to the body.",
+    "variations": [
+      "back tuck",
+      "back tucks"
+    ],
+    "emoji": "⬅️🤸",
+    "id": "gl031"
+  },
+  "backbend": {
+    "word": "backbend",
+    "definition": "a movement or position where the upper body bends backward in an arch",
+    "variations": [
+      "backbend",
+      "backbends"
+    ],
+    "emoji": "🌈🤸",
+    "id": "gl032"
+  },
+  "backstroke": {
+    "word": "backstroke",
+    "definition": "a swimming stroke done on the back with alternating arms and flutter kicks",
+    "variations": [
+      "backstroke",
+      "backstrokes"
+    ],
+    "emoji": "🏊🔙",
+    "id": "gl033"
+  },
+  "backward cast": {
+    "word": "backward cast",
+    "definition": "a cast done with the body moving backward around or away from the bar",
+    "variations": [
+      "backward cast",
+      "backward casts"
+    ],
+    "emoji": "🤸🔙",
+    "id": "gl034"
+  },
+  "backward roll": {
+    "word": "backward roll",
+    "definition": "a movement where the body rolls backward over the shoulders or back",
+    "variations": [
+      "backward roll",
+      "backward rolls"
+    ],
+    "emoji": "⬅️🤸",
+    "id": "gl035"
+  },
+  "balance": {
+    "word": "balance",
+    "definition": "the ability to stay steady and controlled without falling",
+    "variations": [
+      "balance",
+      "balances",
+      "balanced",
+      "balancing"
+    ],
+    "emoji": "⚖️🦶",
+    "id": "gl036"
+  },
+  "balance beam": {
+    "word": "balance beam",
+    "definition": "A long, narrow beam used for balance skills in gymnastics.",
+    "variations": [
+      "balance beam",
+      "balance beams",
+      "beam"
+    ],
+    "emoji": "⚖️🪵🤸",
+    "id": "gl037"
+  },
+  "bar": {
+    "word": "bar",
+    "definition": "a long metal support used in gymnastics for swinging, holding, or balancing.",
+    "variations": [
+      "bar",
+      "bars"
+    ],
+    "emoji": "🏋️🤸",
+    "id": "gl038"
+  },
+  "bar clearance": {
+    "word": "bar clearance",
+    "definition": "the action of passing over the bar successfully without touching or dropping it",
+    "variations": [
+      "bar clearance",
+      "bar clearances"
+    ],
+    "emoji": "🏅📏",
+    "id": "gl039"
+  },
+  "beam": {
+    "word": "beam",
+    "definition": "a long narrow apparatus used for balance skills in gymnastics.",
+    "variations": [
+      "beam",
+      "beams",
+      "balance beam",
+      "balance beams"
+    ],
+    "emoji": "🪵⚖️",
+    "id": "gl040"
+  },
+  "bib": {
+    "word": "bib",
+    "definition": "a light vest worn over clothes to show a player’s position or team",
+    "variations": [
+      "bib",
+      "bibs"
+    ],
+    "emoji": "🎽👕",
+    "id": "gl041"
+  },
+  "blocking": {
+    "word": "blocking",
+    "definition": "stopping or making it hard for a player to take a shot or pass",
+    "variations": [
+      "block",
+      "blocks",
+      "blocked",
+      "blocking"
+    ],
+    "emoji": "🛑✋",
+    "id": "gl042"
+  },
+  "blocking shots": {
+    "word": "blocking shots",
+    "definition": "stopping an opponent’s shot from reaching the goal",
+    "variations": [
+      "blocking shot",
+      "blocking shots"
+    ],
+    "emoji": "🛑🥅",
+    "id": "gl043"
+  },
+  "bounce pass": {
+    "word": "bounce pass",
+    "definition": "a pass in which the ball hits the ground once before reaching a teammate",
+    "variations": [
+      "bounce pass",
+      "bounce passes"
+    ],
+    "emoji": "🏐⬇️",
+    "id": "gl044"
+  },
+  "boundary line": {
+    "word": "boundary line",
+    "definition": "the line that marks the edge of the playing area",
+    "variations": [
+      "boundary line",
+      "boundary lines"
+    ],
+    "emoji": "📏🏟️",
+    "id": "gl045"
+  },
+  "breaststroke": {
+    "word": "breaststroke",
+    "definition": "a swimming stroke with circular arm movements and a frog kick",
+    "variations": [
+      "breaststroke",
+      "breaststrokes"
+    ],
+    "emoji": "🏊🐸",
+    "id": "gl046"
+  },
+  "breathing control": {
+    "word": "breathing control",
+    "definition": "managing breathing in a steady way to keep rhythm and reduce tiredness in swimming",
+    "variations": [
+      "breathing control"
+    ],
+    "emoji": "🫁🏊",
+    "id": "gl047"
+  },
+  "bridge": {
+    "word": "bridge",
+    "definition": "a body position where the back arches upward while the hands and feet support the body",
+    "variations": [
+      "bridge",
+      "bridges"
+    ],
+    "emoji": "🌉🤸",
+    "id": "gl048"
+  },
+  "buoyancy": {
+    "word": "buoyancy",
+    "definition": "the ability of a body to float in water",
+    "variations": [
+      "buoyancy",
+      "buoyant"
+    ],
+    "emoji": "🛟🌊",
+    "id": "gl049"
+  },
+  "butterfly": {
+    "word": "butterfly",
+    "definition": "a powerful swimming stroke where both arms move together over the water",
+    "variations": [
+      "butterfly",
+      "butterflies"
+    ],
+    "emoji": "🦋🏊",
+    "id": "gl050"
+  },
+  "butterfly stroke": {
+    "word": "butterfly stroke",
+    "definition": "a powerful swimming stroke where both arms move together and both legs do a dolphin kick",
+    "variations": [
+      "butterfly stroke",
+      "butterfly strokes",
+      "butterfly"
+    ],
+    "emoji": "🦋🏊",
+    "id": "gl051"
+  },
+  "cage": {
+    "word": "cage",
+    "definition": "a protective fenced area around the discus circle that helps stop dangerous throws.",
+    "variations": [
+      "cage",
+      "cages"
+    ],
+    "emoji": "🛡️⛓️",
+    "id": "gl052"
+  },
+  "carbon fibre": {
+    "word": "carbon fibre",
+    "definition": "a very strong and light material made from thin strands of carbon",
+    "variations": [
+      "carbon fibre",
+      "carbon fibers",
+      "carbon fiber"
+    ],
+    "emoji": "⚫🏗️",
+    "id": "gl053"
+  },
+  "carbonate powder": {
+    "word": "carbonate powder",
+    "definition": "a dry powder used on the hands to improve grip and reduce slipping.",
+    "variations": [
+      "carbonate powder",
+      "carbonate powders"
+    ],
+    "emoji": "🤲⚪",
+    "id": "gl054"
+  },
+  "cardiovascular": {
+    "word": "cardiovascular",
+    "definition": "related to the heart and blood vessels",
+    "variations": [
+      "cardiovascular"
+    ],
+    "emoji": "❤️🩺",
+    "id": "gl055"
+  },
+  "cartwheel": {
+    "word": "cartwheel",
+    "definition": "A cartwheel is a movement where the body turns sideways with hands and feet touching the ground one after another.",
+    "variations": [
+      "cartwheel",
+      "cartwheels"
+    ],
+    "emoji": "🤸🔄",
+    "id": "gl056"
+  },
+  "cast": {
+    "word": "cast",
+    "definition": "a movement in gymnastics where the body pushes away from the bar and lifts upward while the hands stay on the bar",
+    "variations": [
+      "cast",
+      "casts",
+      "casting"
+    ],
+    "emoji": "🤸⬆️",
+    "id": "gl057"
+  },
+  "catching": {
+    "word": "catching",
+    "definition": "taking hold of the ball after it moves through the air",
+    "variations": [
+      "catch",
+      "catches",
+      "catching",
+      "caught"
+    ],
+    "emoji": "👐🏐",
+    "id": "gl058"
+  },
+  "centre": {
+    "word": "centre",
+    "definition": "the player who links defense and attack and moves through most parts of the court",
+    "variations": [
+      "centre",
+      "centres",
+      "C",
+      "center",
+      "centers"
+    ],
+    "emoji": "🏀🔗",
+    "id": "gl059"
+  },
+  "centre circle": {
+    "word": "centre circle",
+    "definition": "the circle in the middle of the netball court where play starts or restarts",
+    "variations": [
+      "centre circle",
+      "centre circles"
+    ],
+    "emoji": "⭕🏐",
+    "id": "gl060"
+  },
+  "centre pass": {
+    "word": "centre pass",
+    "definition": "the pass used to start the game or restart play after a goal from the centre of the court",
+    "variations": [
+      "centre pass",
+      "centre passes"
+    ],
+    "emoji": "🏐⭕",
+    "id": "gl061"
+  },
+  "centre third": {
+    "word": "centre third",
+    "definition": "the middle part of the netball court used to move the ball from defense to attack",
+    "variations": [
+      "centre third",
+      "centre thirds"
+    ],
+    "emoji": "🏐↔️",
+    "id": "gl062"
+  },
+  "chalk powder": {
+    "word": "chalk powder",
+    "definition": "a dry powder gymnasts put on their hands to reduce sweat and improve grip.",
+    "variations": [
+      "chalk powder"
+    ],
+    "emoji": "🧂✋",
+    "id": "gl063"
+  },
+  "chest pass": {
+    "word": "chest pass",
+    "definition": "a two-handed pass pushed from the chest directly to a teammate",
+    "variations": [
+      "chest pass",
+      "chest passes"
+    ],
+    "emoji": "🏐➡️",
+    "id": "gl064"
+  },
+  "chlorination": {
+    "word": "chlorination",
+    "definition": "the process of adding chlorine to water to keep it clean and safe",
+    "variations": [
+      "chlorination",
+      "chlorine"
+    ],
+    "emoji": "🧪💧",
+    "id": "gl065"
+  },
+  "circumference": {
+    "word": "circumference",
+    "definition": "the distance all the way around a circle",
+    "variations": [
+      "circumference",
+      "circumferences"
+    ],
+    "emoji": "⭕📐",
+    "id": "gl066"
+  },
+  "collision": {
+    "word": "collision",
+    "definition": "an accident in which two people or objects hit each other",
+    "variations": [
+      "collision",
+      "collisions"
+    ],
+    "emoji": "💥🤕",
+    "id": "gl067"
+  },
+  "competency": {
+    "word": "competency",
+    "definition": "an important skill or ability to do something well",
+    "variations": [
+      "competency",
+      "competencies"
+    ],
+    "emoji": "🧠💪",
+    "id": "gl068"
+  },
+  "competition": {
+    "word": "competition",
+    "definition": "an event where people try to win by showing their skill",
+    "variations": [
+      "competition",
+      "competitions"
+    ],
+    "emoji": "🏆🥇",
+    "id": "gl069"
+  },
+  "competitive": {
+    "word": "competitive",
+    "definition": "related to a contest or event where people try to win",
+    "variations": [
+      "competitive",
+      "competition",
+      "competitions"
+    ],
+    "emoji": "🏅🏁",
+    "id": "gl070"
+  },
+  "competitive pools": {
+    "word": "competitive pools",
+    "definition": "swimming pools built to official standards for competitions",
+    "variations": [
+      "competitive pool",
+      "competitive pools"
+    ],
+    "emoji": "🏊🏟️",
+    "id": "gl071"
+  },
+  "competitively": {
+    "word": "competitively",
+    "definition": "in a way that tries to win against others in a contest or sport",
+    "variations": [
+      "competitive",
+      "competitively",
+      "competition",
+      "competitions"
+    ],
+    "emoji": "🏆🔥",
+    "id": "gl072"
+  },
+  "consistency": {
+    "word": "consistency",
+    "definition": "the ability to perform in the same good way again and again.",
+    "variations": [
+      "consistency"
+    ],
+    "emoji": "🔁✅",
+    "id": "gl073"
+  },
+  "contact": {
+    "word": "contact",
+    "definition": "physical touching between players that is against the rules in some situations",
+    "variations": [
+      "contact",
+      "contacts"
+    ],
+    "emoji": "🤾⚠️",
+    "id": "gl074"
+  },
+  "control": {
+    "word": "control",
+    "definition": "The ability to move the body carefully and correctly.",
+    "variations": [
+      "control",
+      "controls",
+      "controlled",
+      "controlling"
+    ],
+    "emoji": "🎯🧠",
+    "id": "gl075"
+  },
+  "cool down": {
+    "word": "cool down",
+    "definition": "easy activity done after exercise to help the body recover",
+    "variations": [
+      "cool down",
+      "cool-down",
+      "cooling down"
+    ],
+    "emoji": "❄️🧘",
+    "id": "gl076"
+  },
+  "coordination": {
+    "word": "coordination",
+    "definition": "the ability to move different body parts together in a smooth and controlled way",
+    "variations": [
+      "coordination",
+      "coordinate",
+      "coordinated"
+    ],
+    "emoji": "🤸🔄",
+    "id": "gl077"
+  },
+  "core": {
+    "word": "core",
+    "definition": "the muscles around the stomach, lower back, and hips that help keep the body strong and stable",
+    "variations": [
+      "core",
+      "cores"
+    ],
+    "emoji": "🧍💪",
+    "id": "gl078"
+  },
+  "core strength": {
+    "word": "core strength",
+    "definition": "strength in the muscles of the stomach, back, and hips",
+    "variations": [
+      "core strength",
+      "core"
+    ],
+    "emoji": "💪🧍",
+    "id": "gl079"
+  },
+  "court": {
+    "word": "court",
+    "definition": "the marked area where a sport like netball is played",
+    "variations": [
+      "court",
+      "courts"
+    ],
+    "emoji": "🏟️📏",
+    "id": "gl080"
+  },
+  "CPR": {
+    "word": "CPR",
+    "definition": "an emergency method of pressing the chest and giving help to restart breathing or heartbeat",
+    "variations": [
+      "CPR",
+      "Cardiopulmonary Resuscitation"
+    ],
+    "emoji": "❤️🆘",
+    "id": "gl081"
+  },
+  "crossbar": {
+    "word": "crossbar",
+    "definition": "the horizontal bar that high jump athletes try to clear without knocking it down.",
+    "variations": [
+      "crossbar",
+      "crossbars"
+    ],
+    "emoji": "📏⬆️",
+    "id": "gl082"
+  },
+  "crossover stride": {
+    "word": "crossover stride",
+    "definition": "a step in which one leg crosses over the other while moving to prepare for a throw.",
+    "variations": [
+      "crossover stride",
+      "crossover strides"
+    ],
+    "emoji": "👣🔄",
+    "id": "gl083"
+  },
+  "currents": {
+    "word": "currents",
+    "definition": "the movement of water in a certain direction",
+    "variations": [
+      "current",
+      "currents"
+    ],
+    "emoji": "🌊↔️",
+    "id": "gl084"
+  },
+  "cylindrical": {
+    "word": "cylindrical",
+    "definition": "having the shape of a cylinder, like a tube",
+    "variations": [
+      "cylindrical"
+    ],
+    "emoji": "🧪⭕",
+    "id": "gl085"
+  },
+  "debris": {
+    "word": "debris",
+    "definition": "small pieces of waste, dirt, or broken material left on the ground",
+    "variations": [
+      "debris"
+    ],
+    "emoji": "🗑️🧹",
+    "id": "gl086"
+  },
+  "decision-making": {
+    "word": "decision-making",
+    "definition": "the skill of choosing what to do quickly and wisely",
+    "variations": [
+      "decision-making"
+    ],
+    "emoji": "🧠⚡",
+    "id": "gl087"
+  },
+  "defender": {
+    "word": "defender",
+    "definition": "a player whose role is to stop the other team from scoring or moving forward easily",
+    "variations": [
+      "defender",
+      "defenders"
+    ],
+    "emoji": "🛡️🏃",
+    "id": "gl088"
+  },
+  "defending": {
+    "word": "defending",
+    "definition": "the act of stopping the other team from scoring or keeping the ball",
+    "variations": [
+      "defend",
+      "defends",
+      "defended",
+      "defending",
+      "defense",
+      "defence",
+      "defensive"
+    ],
+    "emoji": "🛡️🏀",
+    "id": "gl089"
+  },
+  "defensive third": {
+    "word": "defensive third",
+    "definition": "the part of the court nearest a team’s own goal where they defend",
+    "variations": [
+      "defensive third",
+      "defensive thirds"
+    ],
+    "emoji": "🛡️⬅️",
+    "id": "gl090"
+  },
+  "dehydration": {
+    "word": "dehydration",
+    "definition": "a condition in which the body does not have enough water",
+    "variations": [
+      "dehydration",
+      "dehydrate",
+      "dehydrated"
+    ],
+    "emoji": "🥵💧",
+    "id": "gl091"
+  },
+  "diameter": {
+    "word": "diameter",
+    "definition": "the distance across a circle through its centre",
+    "variations": [
+      "diameter",
+      "diameters"
+    ],
+    "emoji": "⭕📐",
+    "id": "gl092"
+  },
+  "discipline": {
+    "word": "discipline",
+    "definition": "the ability to control your actions and follow rules",
+    "variations": [
+      "discipline",
+      "disciplined"
+    ],
+    "emoji": "📏✅",
+    "id": "gl093"
+  },
+  "discus": {
+    "word": "discus",
+    "definition": "a heavy circular object that athletes throw for distance in a field event.",
+    "variations": [
+      "discus",
+      "discuses"
+    ],
+    "emoji": "🥏🏟️",
+    "id": "gl094"
+  },
+  "discus throw": {
+    "word": "discus throw",
+    "definition": "a field event in which an athlete throws a flat round object called a discus",
+    "variations": [
+      "discus throw",
+      "discus throws"
+    ],
+    "emoji": "🥏💨",
+    "id": "gl095"
+  },
+  "dislocation": {
+    "word": "dislocation",
+    "definition": "an injury in which a bone is forced out of its normal position in a joint",
+    "variations": [
+      "dislocation",
+      "dislocations"
+    ],
+    "emoji": "🦴😣",
+    "id": "gl096"
+  },
+  "dismount": {
+    "word": "dismount",
+    "definition": "The movement used to get off a gymnastics apparatus, usually at the end of a routine.",
+    "variations": [
+      "dismount",
+      "dismounts"
+    ],
+    "emoji": "⬇️🤸",
+    "id": "gl097"
+  },
+  "disqualification": {
+    "word": "disqualification",
+    "definition": "removal from a competition because a rule was broken",
+    "variations": [
+      "disqualification",
+      "disqualifications",
+      "disqualify",
+      "disqualified"
+    ],
+    "emoji": "🚫🏁",
+    "id": "gl098"
+  },
+  "dodging": {
+    "word": "dodging",
+    "definition": "quickly moving to one side to avoid an opponent or create space",
+    "variations": [
+      "dodge",
+      "dodges",
+      "dodging",
+      "dodged"
+    ],
+    "emoji": "↔️🏃",
+    "id": "gl099"
+  },
+  "dolphin kick": {
+    "word": "dolphin kick",
+    "definition": "a strong wave-like kick with both legs moving together",
+    "variations": [
+      "dolphin kick",
+      "dolphin kicks"
+    ],
+    "emoji": "🐬🦵",
+    "id": "gl100"
+  },
+  "dominant": {
+    "word": "dominant",
+    "definition": "stronger or more naturally used, especially of a hand or foot",
+    "variations": [
+      "dominant",
+      "dominance"
+    ],
+    "emoji": "✋🦶",
+    "id": "gl101"
+  },
+  "drag": {
+    "word": "drag",
+    "definition": "water resistance that slows a swimmer down",
+    "variations": [
+      "drag",
+      "drags",
+      "dragged",
+      "dragging"
+    ],
+    "emoji": "🌊🐢",
+    "id": "gl102"
+  },
+  "draw": {
+    "word": "draw",
+    "definition": "a game result in which both teams have the same score",
+    "variations": [
+      "draw",
+      "draws",
+      "drew",
+      "drawn"
+    ],
+    "emoji": "🤝➖",
+    "id": "gl103"
+  },
+  "dribble": {
+    "word": "dribble",
+    "definition": "to move with the ball by bouncing it repeatedly; in netball this is not allowed",
+    "variations": [
+      "dribble",
+      "dribbles",
+      "dribbled",
+      "dribbling"
+    ],
+    "emoji": "🏐🚫",
+    "id": "gl104"
+  },
+  "earplugs": {
+    "word": "earplugs",
+    "definition": "small devices put in the ears to stop water from entering",
+    "variations": [
+      "earplug",
+      "earplugs"
+    ],
+    "emoji": "👂💧",
+    "id": "gl105"
+  },
+  "eastern cut-off": {
+    "word": "eastern cut-off",
+    "definition": "a high jump technique in which the athlete crosses the bar with the body turned in a special cutting motion",
+    "variations": [
+      "eastern cut-off",
+      "eastern cut-offs"
+    ],
+    "emoji": "↗️🏅",
+    "id": "gl106"
+  },
+  "eggbeater kick": {
+    "word": "eggbeater kick",
+    "definition": "a continuous circular leg motion used to stay stable and keep the body up in water",
+    "variations": [
+      "eggbeater kick",
+      "eggbeater kicks"
+    ],
+    "emoji": "🥚🦵🌊",
+    "id": "gl107"
+  },
+  "emergency": {
+    "word": "emergency",
+    "definition": "a sudden serious situation that needs quick action",
+    "variations": [
+      "emergency",
+      "emergencies"
+    ],
+    "emoji": "🚨🛟",
+    "id": "gl108"
+  },
+  "enclosure": {
+    "word": "enclosure",
+    "definition": "a fenced or protected area around an event space for safety.",
+    "variations": [
+      "enclosure",
+      "enclosures"
+    ],
+    "emoji": "🛡️🚧",
+    "id": "gl109"
+  },
+  "endurance": {
+    "word": "endurance",
+    "definition": "the ability to keep doing an exercise or hold for a long time without getting too tired",
+    "variations": [
+      "endurance"
+    ],
+    "emoji": "⏳💪",
+    "id": "gl110"
+  },
+  "equipment": {
+    "word": "equipment",
+    "definition": "the tools or items needed for an activity",
+    "variations": [
+      "equipment"
+    ],
+    "emoji": "🧰🏊",
+    "id": "gl111"
+  },
+  "equipment-based routine": {
+    "word": "equipment-based routine",
+    "definition": "A gymnastics routine performed using special equipment like bars, rings, beam, or vault.",
+    "variations": [
+      "equipment-based routine",
+      "equipment-based routines"
+    ],
+    "emoji": "🛠️🤸",
+    "id": "gl112"
+  },
+  "errant": {
+    "word": "errant",
+    "definition": "going off the correct path or direction by mistake.",
+    "variations": [
+      "errant"
+    ],
+    "emoji": "↗️❗",
+    "id": "gl113"
+  },
+  "exhalation": {
+    "word": "exhalation",
+    "definition": "the act of breathing air out of the body",
+    "variations": [
+      "exhalation",
+      "exhalations",
+      "exhale",
+      "exhaled",
+      "exhaling"
+    ],
+    "emoji": "😮‍💨🌬️",
+    "id": "gl114"
+  },
+  "exhaling": {
+    "word": "exhaling",
+    "definition": "breathing air out of the lungs",
+    "variations": [
+      "exhale",
+      "exhaling",
+      "exhalation"
+    ],
+    "emoji": "🫁➡️",
+    "id": "gl115"
+  },
+  "explosive power": {
+    "word": "explosive power",
+    "definition": "the ability to move very fast and strongly in a short time.",
+    "variations": [
+      "explosive power"
+    ],
+    "emoji": "💥💪",
+    "id": "gl116"
+  },
+  "extension": {
+    "word": "extension",
+    "definition": "the act of straightening or stretching the body or a body part.",
+    "variations": [
+      "extension",
+      "extensions"
+    ],
+    "emoji": "📏🦵",
+    "id": "gl117"
+  },
+  "facilitate": {
+    "word": "facilitate",
+    "definition": "to make something easier to do or happen",
+    "variations": [
+      "facilitate",
+      "facilitates",
+      "facilitated",
+      "facilitating"
+    ],
+    "emoji": "🤝➡️",
+    "id": "gl118"
+  },
+  "facility": {
+    "word": "facility",
+    "definition": "a place or building made for a particular activity or use",
+    "variations": [
+      "facility",
+      "facilities"
+    ],
+    "emoji": "🏊🏟️",
+    "id": "gl119"
+  },
+  "false grip": {
+    "word": "false grip",
+    "definition": "A special grip where the wrist rests over the ring or bar to help with strong support moves.",
+    "variations": [
+      "false grip",
+      "false grips"
+    ],
+    "emoji": "✋⭕💪",
+    "id": "gl120"
+  },
+  "false start": {
+    "word": "false start",
+    "definition": "starting a race before the official signal",
+    "variations": [
+      "false start",
+      "false starts"
+    ],
+    "emoji": "🚦❌",
+    "id": "gl121"
+  },
+  "fibreglass": {
+    "word": "fibreglass",
+    "definition": "a strong, light material made from thin glass fibres",
+    "variations": [
+      "fibreglass",
+      "fiberglass"
+    ],
+    "emoji": "🧪🏗️",
+    "id": "gl122"
+  },
+  "field events": {
+    "word": "field events",
+    "definition": "sports activities in athletics that involve jumping or throwing instead of running on a track",
+    "variations": [
+      "field event",
+      "field events"
+    ],
+    "emoji": "🏟️🏃",
+    "id": "gl123"
+  },
+  "filtration": {
+    "word": "filtration",
+    "definition": "the process of cleaning water by removing dirt and unwanted materials",
+    "variations": [
+      "filtration",
+      "filter"
+    ],
+    "emoji": "💧🧼",
+    "id": "gl124"
+  },
+  "fingertip": {
+    "word": "fingertip",
+    "definition": "the end part of a finger.",
+    "variations": [
+      "fingertip",
+      "fingertips"
+    ],
+    "emoji": "☝️✋",
+    "id": "gl125"
+  },
+  "Finnish grip": {
+    "word": "Finnish grip",
+    "definition": "a way of holding the javelin with the index finger along the top and the thumb underneath",
+    "variations": [
+      "Finnish grip",
+      "Finnish grips"
+    ],
+    "emoji": "✋🗡️",
+    "id": "gl126"
+  },
+  "fins": {
+    "word": "fins",
+    "definition": "devices worn on the feet to help swimmers move faster and improve kicking",
+    "variations": [
+      "fin",
+      "fins"
+    ],
+    "emoji": "🦶🌊",
+    "id": "gl127"
+  },
+  "first aid kit": {
+    "word": "first aid kit",
+    "definition": "a box or bag with medical supplies used to treat small injuries quickly.",
+    "variations": [
+      "first aid kit",
+      "first aid kits"
+    ],
+    "emoji": "🩹⛑️",
+    "id": "gl128"
+  },
+  "fitness": {
+    "word": "fitness",
+    "definition": "the condition of being healthy, strong, and physically active",
+    "variations": [
+      "fitness",
+      "fit"
+    ],
+    "emoji": "💪🏃❤️",
+    "id": "gl129"
+  },
+  "flag": {
+    "word": "flag",
+    "definition": "a coloured cloth used as a signal in sports.",
+    "variations": [
+      "flag",
+      "flags"
+    ],
+    "emoji": "🚩🏳️",
+    "id": "gl130"
+  },
+  "flexed arm hang": {
+    "word": "flexed arm hang",
+    "definition": "a hanging position where the chin stays above the bar and the arms are bent",
+    "variations": [
+      "flexed arm hang",
+      "flexed arm hangs"
+    ],
+    "emoji": "💪🙌",
+    "id": "gl131"
+  },
+  "flexibility": {
+    "word": "flexibility",
+    "definition": "the ability of the body to bend and move easily",
+    "variations": [
+      "flexibility",
+      "flexible"
+    ],
+    "emoji": "🧘🦴",
+    "id": "gl132"
+  },
+  "flight": {
+    "word": "flight",
+    "definition": "the time when an athlete is in the air during a jump.",
+    "variations": [
+      "flight",
+      "flights"
+    ],
+    "emoji": "🕊️🌤️",
+    "id": "gl133"
+  },
+  "flight technique": {
+    "word": "flight technique",
+    "definition": "the way an athlete moves their body in the air during a jump.",
+    "variations": [
+      "flight technique",
+      "flight techniques"
+    ],
+    "emoji": "🕊️🏃",
+    "id": "gl134"
+  },
+  "flip turn": {
+    "word": "flip turn",
+    "definition": "a quick turning movement in swimming where the swimmer flips under the water at the wall",
+    "variations": [
+      "flip turn",
+      "flip turns",
+      "tumble turn",
+      "tumble turns"
+    ],
+    "emoji": "🔄🏊",
+    "id": "gl135"
+  },
+  "floating": {
+    "word": "floating",
+    "definition": "staying on the surface of water without sinking",
+    "variations": [
+      "float",
+      "floating",
+      "floats"
+    ],
+    "emoji": "💧🛟",
+    "id": "gl136"
+  },
+  "floor exercise": {
+    "word": "floor exercise",
+    "definition": "a gymnastics routine performed on the floor using acrobatic and dance movements.",
+    "variations": [
+      "floor exercise",
+      "floor exercises"
+    ],
+    "emoji": "🟦🤸",
+    "id": "gl137"
+  },
+  "floor routine": {
+    "word": "floor routine",
+    "definition": "A planned set of gymnastics movements done on the floor.",
+    "variations": [
+      "floor routine",
+      "floor routines"
+    ],
+    "emoji": "🤸📍",
+    "id": "gl138"
+  },
+  "flotation devices": {
+    "word": "flotation devices",
+    "definition": "items that help a person stay on the surface of the water",
+    "variations": [
+      "flotation device",
+      "flotation devices"
+    ],
+    "emoji": "🛟💧",
+    "id": "gl139"
+  },
+  "flutter kick": {
+    "word": "flutter kick",
+    "definition": "a swimming kick with small, fast, alternating up-and-down leg movements",
+    "variations": [
+      "flutter kick",
+      "flutter kicks"
+    ],
+    "emoji": "🦵💦",
+    "id": "gl140"
+  },
+  "follow-through": {
+    "word": "follow-through",
+    "definition": "the movement that continues after releasing the object to keep balance and complete the action properly.",
+    "variations": [
+      "follow-through",
+      "follow-throughs"
+    ],
+    "emoji": "➡️⚖️",
+    "id": "gl141"
+  },
+  "footwear": {
+    "word": "footwear",
+    "definition": "shoes or other things worn on the feet.",
+    "variations": [
+      "footwear"
+    ],
+    "emoji": "👟🦶",
+    "id": "gl142"
+  },
+  "footwork": {
+    "word": "footwork",
+    "definition": "the way a player moves and places their feet during play",
+    "variations": [
+      "footwork"
+    ],
+    "emoji": "🦶🏃",
+    "id": "gl143"
+  },
+  "footwork rule": {
+    "word": "footwork rule",
+    "definition": "a rule that limits how a player may step while holding the ball",
+    "variations": [
+      "footwork rule",
+      "footwork rules"
+    ],
+    "emoji": "👣🏐",
+    "id": "gl144"
+  },
+  "force": {
+    "word": "force",
+    "definition": "strength or power used to move something",
+    "variations": [
+      "force",
+      "forces"
+    ],
+    "emoji": "💪➡️",
+    "id": "gl145"
+  },
+  "forearm": {
+    "word": "forearm",
+    "definition": "The part of the arm between the elbow and the wrist.",
+    "variations": [
+      "forearm",
+      "forearms"
+    ],
+    "emoji": "💪✋",
+    "id": "gl146"
+  },
+  "forward roll": {
+    "word": "forward roll",
+    "definition": "a movement where the body rolls forward over the back",
+    "variations": [
+      "forward roll",
+      "forward rolls"
+    ],
+    "emoji": "➡️🤸",
+    "id": "gl147"
+  },
+  "Fosbury flop": {
+    "word": "Fosbury flop",
+    "definition": "a modern high jump technique where the athlete goes over the bar head first with the back facing the bar",
+    "variations": [
+      "Fosbury flop",
+      "Fosbury flops"
+    ],
+    "emoji": "🏅🙃⬆️",
+    "id": "gl148"
+  },
+  "foul": {
+    "word": "foul",
+    "definition": "an action that breaks the rules in a sports event.",
+    "variations": [
+      "foul",
+      "fouls"
+    ],
+    "emoji": "❌🚫",
+    "id": "gl149"
+  },
+  "foul jump": {
+    "word": "foul jump",
+    "definition": "a jump that breaks the rules, such as stepping over the take-off board",
+    "variations": [
+      "foul jump",
+      "foul jumps"
+    ],
+    "emoji": "🚫🏃",
+    "id": "gl150"
+  },
+  "foul line": {
+    "word": "foul line",
+    "definition": "a line that a player must not cross when making a throw or play",
+    "variations": [
+      "foul line",
+      "foul lines"
+    ],
+    "emoji": "🚫📏",
+    "id": "gl151"
+  },
+  "fracture": {
+    "word": "fracture",
+    "definition": "a broken bone or a crack in a bone",
+    "variations": [
+      "fracture",
+      "fractures"
+    ],
+    "emoji": "🦴💥",
+    "id": "gl152"
+  },
+  "free pass": {
+    "word": "free pass",
+    "definition": "a pass given to a team after the other team breaks a minor rule",
+    "variations": [
+      "free pass",
+      "free passes"
+    ],
+    "emoji": "🏐✅",
+    "id": "gl153"
+  },
+  "freestyle": {
+    "word": "freestyle",
+    "definition": "a swimming race in which a swimmer may use any stroke",
+    "variations": [
+      "freestyle"
+    ],
+    "emoji": "🏊🏁",
+    "id": "gl154"
+  },
+  "frog kick": {
+    "word": "frog kick",
+    "definition": "a kick where the legs bend and sweep outward and backward before coming together",
+    "variations": [
+      "frog kick",
+      "frog kicks"
+    ],
+    "emoji": "🐸🦵",
+    "id": "gl155"
+  },
+  "front crawl": {
+    "word": "front crawl",
+    "definition": "a fast swimming stroke with alternating arms and flutter kicks, usually used in freestyle",
+    "variations": [
+      "front crawl",
+      "front crawls"
+    ],
+    "emoji": "🏊➡️",
+    "id": "gl156"
+  },
+  "front support": {
+    "word": "front support",
+    "definition": "a position on top of the bar where the gymnast supports the body with straight arms",
+    "variations": [
+      "front support",
+      "front supports"
+    ],
+    "emoji": "💪⬆️",
+    "id": "gl157"
+  },
+  "fumbling": {
+    "word": "fumbling",
+    "definition": "failing to hold or control the ball properly",
+    "variations": [
+      "fumble",
+      "fumbles",
+      "fumbling",
+      "fumbled"
+    ],
+    "emoji": "😵🏐",
+    "id": "gl158"
+  },
+  "gear": {
+    "word": "gear",
+    "definition": "the clothing or equipment needed for a sport or activity",
+    "variations": [
+      "gear"
+    ],
+    "emoji": "👟🎽",
+    "id": "gl159"
+  },
+  "giant swing": {
+    "word": "giant swing",
+    "definition": "a full circular swing around a high bar with the body kept straight.",
+    "variations": [
+      "giant swing",
+      "giant swings"
+    ],
+    "emoji": "🔄🤸",
+    "id": "gl160"
+  },
+  "glide swing": {
+    "word": "glide swing",
+    "definition": "A glide swing is a smooth swinging movement, usually under a bar, with the body stretched out.",
+    "variations": [
+      "glide swing",
+      "glide swings"
+    ],
+    "emoji": "🤸🌊",
+    "id": "gl161"
+  },
+  "glide technique": {
+    "word": "glide technique",
+    "definition": "another name for the linear shot put method, where the athlete slides across the circle.",
+    "variations": [
+      "glide technique",
+      "glide techniques"
+    ],
+    "emoji": "➡️👟",
+    "id": "gl162"
+  },
+  "goal attack": {
+    "word": "goal attack",
+    "definition": "the player who helps create scoring chances and can also score goals",
+    "variations": [
+      "goal attack",
+      "goal attacks",
+      "GA"
+    ],
+    "emoji": "🏀⚡",
+    "id": "gl163"
+  },
+  "goal circle": {
+    "word": "goal circle",
+    "definition": "the area near the hoop where players must be to shoot a goal",
+    "variations": [
+      "goal circle",
+      "goal circles"
+    ],
+    "emoji": "⭕🏀",
+    "id": "gl164"
+  },
+  "goal defense": {
+    "word": "goal defense",
+    "definition": "the player who stops the goal attack and helps block shots and intercept passes",
+    "variations": [
+      "goal defense",
+      "goal defenses",
+      "goal defence",
+      "goal defences",
+      "GD"
+    ],
+    "emoji": "🛡️🏀",
+    "id": "gl165"
+  },
+  "goal keeper": {
+    "word": "goal keeper",
+    "definition": "the player who protects the goal area and tries to stop the goal shooter from scoring",
+    "variations": [
+      "goal keeper",
+      "goal keepers",
+      "goalkeeper",
+      "goalkeepers",
+      "GK"
+    ],
+    "emoji": "🥅🛡️",
+    "id": "gl166"
+  },
+  "goal shooter": {
+    "word": "goal shooter",
+    "definition": "the player whose main job is to score goals",
+    "variations": [
+      "goal shooter",
+      "goal shooters",
+      "GS"
+    ],
+    "emoji": "🏀🥅",
+    "id": "gl167"
+  },
+  "goalpost": {
+    "word": "goalpost",
+    "definition": "the upright post with a ring and net used for scoring in netball",
+    "variations": [
+      "goalpost",
+      "goalposts"
+    ],
+    "emoji": "🥅🎯",
+    "id": "gl168"
+  },
+  "goggles": {
+    "word": "goggles",
+    "definition": "protective eyewear worn in water to help swimmers see clearly and protect their eyes",
+    "variations": [
+      "goggle",
+      "goggles"
+    ],
+    "emoji": "🥽💧",
+    "id": "gl169"
+  },
+  "grip": {
+    "word": "grip",
+    "definition": "The way the hands hold onto something.",
+    "variations": [
+      "grip",
+      "grips",
+      "gripping",
+      "gripped"
+    ],
+    "emoji": "✋🔒",
+    "id": "gl170"
+  },
+  "grip strength": {
+    "word": "grip strength",
+    "definition": "the strength of the hands and fingers used to hold equipment firmly.",
+    "variations": [
+      "grip strength"
+    ],
+    "emoji": "✋💪",
+    "id": "gl171"
+  },
+  "gripping": {
+    "word": "gripping",
+    "definition": "Holding an apparatus with the hands in a certain way for safety and control.",
+    "variations": [
+      "gripping",
+      "grip",
+      "grips"
+    ],
+    "emoji": "✋🤸",
+    "id": "gl172"
+  },
+  "gripping powder": {
+    "word": "gripping powder",
+    "definition": "powder used on the hands to reduce sweat and improve grip",
+    "variations": [
+      "gripping powder",
+      "chalk",
+      "chalk powder"
+    ],
+    "emoji": "✋🪶",
+    "id": "gl173"
+  },
+  "gymnasium": {
+    "word": "gymnasium",
+    "definition": "an indoor place used for exercise, sports, or gymnastics practice",
+    "variations": [
+      "gymnasium",
+      "gymnasiums"
+    ],
+    "emoji": "🏫🤸",
+    "id": "gl174"
+  },
+  "gymnast": {
+    "word": "gymnast",
+    "definition": "A person who performs gymnastics.",
+    "variations": [
+      "gymnast",
+      "gymnasts"
+    ],
+    "emoji": "🤸🏃",
+    "id": "gl175"
+  },
+  "gymnastics": {
+    "word": "gymnastics",
+    "definition": "A sport that uses strength, balance, flexibility, and control to perform movements and skills.",
+    "variations": [
+      "gymnastics",
+      "gymnastic"
+    ],
+    "emoji": "🤸🏅",
+    "id": "gl176"
+  },
+  "halftime": {
+    "word": "halftime",
+    "definition": "the break in the middle of a game before play starts again",
+    "variations": [
+      "halftime",
+      "half-time"
+    ],
+    "emoji": "⏸️🏟️",
+    "id": "gl177"
+  },
+  "hand paddles": {
+    "word": "hand paddles",
+    "definition": "flat devices worn on the hands to increase resistance and build arm strength in swimming",
+    "variations": [
+      "hand paddle",
+      "hand paddles"
+    ],
+    "emoji": "✋🏊",
+    "id": "gl178"
+  },
+  "hand-eye coordination": {
+    "word": "hand-eye coordination",
+    "definition": "the ability to use the hands correctly based on what the eyes see",
+    "variations": [
+      "hand-eye coordination"
+    ],
+    "emoji": "👀✋",
+    "id": "gl179"
+  },
+  "handspring": {
+    "word": "handspring",
+    "definition": "a gymnastics skill in which the gymnast jumps, places the hands on a surface, and pushes through to land on the feet.",
+    "variations": [
+      "handspring",
+      "handsprings"
+    ],
+    "emoji": "🤸✋",
+    "id": "gl180"
+  },
+  "handstand": {
+    "word": "handstand",
+    "definition": "A position where a person balances upside down on the hands.",
+    "variations": [
+      "handstand",
+      "handstands"
+    ],
+    "emoji": "🙌🙃",
+    "id": "gl181"
+  },
+  "hang": {
+    "word": "hang",
+    "definition": "a position where a gymnast holds a bar or rings while the body is off the ground",
+    "variations": [
+      "hang",
+      "hangs",
+      "hanging"
+    ],
+    "emoji": "🙌🏋️",
+    "id": "gl182"
+  },
+  "hang technique": {
+    "word": "hang technique",
+    "definition": "a long jump flight technique in which the athlete keeps the body stretched as if hanging in the air.",
+    "variations": [
+      "hang technique",
+      "hang techniques"
+    ],
+    "emoji": "🛫🧍",
+    "id": "gl183"
+  },
+  "hangs": {
+    "word": "hangs",
+    "definition": "gymnastics positions where the gymnast hangs from bars or rings",
+    "variations": [
+      "hang",
+      "hangs",
+      "hanging"
+    ],
+    "emoji": "🤸🪢",
+    "id": "gl184"
+  },
+  "hazard": {
+    "word": "hazard",
+    "definition": "something that can cause danger or injury",
+    "variations": [
+      "hazard",
+      "hazards"
+    ],
+    "emoji": "⚠️🚧",
+    "id": "gl185"
+  },
+  "headstand": {
+    "word": "headstand",
+    "definition": "A position where a person balances upside down on the head and hands.",
+    "variations": [
+      "headstand",
+      "headstands"
+    ],
+    "emoji": "🙃🤸",
+    "id": "gl186"
+  },
+  "held ball": {
+    "word": "held ball",
+    "definition": "a violation that happens when a player keeps the ball too long without passing or shooting",
+    "variations": [
+      "held ball",
+      "held balls"
+    ],
+    "emoji": "🏐⏳",
+    "id": "gl187"
+  },
+  "high jump": {
+    "word": "high jump",
+    "definition": "a field event where an athlete jumps over a bar set at a certain height.",
+    "variations": [
+      "high jump",
+      "high jumps"
+    ],
+    "emoji": "⬆️🏅",
+    "id": "gl188"
+  },
+  "hitch-kick": {
+    "word": "hitch-kick",
+    "definition": "a jumping style where the athlete moves the legs like running while in the air.",
+    "variations": [
+      "hitch-kick",
+      "hitch-kicks"
+    ],
+    "emoji": "🦵🏃",
+    "id": "gl189"
+  },
+  "hitch-kick technique": {
+    "word": "hitch-kick technique",
+    "definition": "a long jump flight technique where the legs move as if running in the air to help balance.",
+    "variations": [
+      "hitch-kick technique",
+      "hitch-kick techniques"
+    ],
+    "emoji": "🦵🛫",
+    "id": "gl190"
+  },
+  "hold": {
+    "word": "hold",
+    "definition": "a position kept steady for some time to show strength and control",
+    "variations": [
+      "hold",
+      "holds",
+      "holding"
+    ],
+    "emoji": "⏱️💪",
+    "id": "gl191"
+  },
+  "hop": {
+    "word": "hop",
+    "definition": "the first phase of the triple jump, where the athlete lands on the same foot used for take-off.",
+    "variations": [
+      "hop",
+      "hops",
+      "hopping"
+    ],
+    "emoji": "🦘👣",
+    "id": "gl192"
+  },
+  "horizontal": {
+    "word": "horizontal",
+    "definition": "moving or lying across from side to side, not up and down.",
+    "variations": [
+      "horizontal",
+      "horizontally"
+    ],
+    "emoji": "↔️📏",
+    "id": "gl193"
+  },
+  "horizontal bar": {
+    "word": "horizontal bar",
+    "definition": "a single high bar used for swinging, turning, and dismounting",
+    "variations": [
+      "horizontal bar",
+      "horizontal bars",
+      "high bar"
+    ],
+    "emoji": "🔩🤸",
+    "id": "gl194"
+  },
+  "horizontal jumps": {
+    "word": "horizontal jumps",
+    "definition": "jumps where the aim is to move forward as far as possible",
+    "variations": [
+      "horizontal jump",
+      "horizontal jumps"
+    ],
+    "emoji": "↔️🏃",
+    "id": "gl195"
+  },
+  "hydrated": {
+    "word": "hydrated",
+    "definition": "having enough water in the body",
+    "variations": [
+      "hydrate",
+      "hydrated",
+      "hydration"
+    ],
+    "emoji": "💧🥤",
+    "id": "gl196"
+  },
+  "implement": {
+    "word": "implement",
+    "definition": "a piece of sports equipment used in an event, such as a javelin, shot, or discus.",
+    "variations": [
+      "implement",
+      "implements"
+    ],
+    "emoji": "🛠️🏅",
+    "id": "gl197"
+  },
+  "imprint": {
+    "word": "imprint",
+    "definition": "a mark left in the sand where part of the athlete's body touches down.",
+    "variations": [
+      "imprint",
+      "imprints"
+    ],
+    "emoji": "👣🏖️",
+    "id": "gl198"
+  },
+  "impulse step": {
+    "word": "impulse step",
+    "definition": "a strong step used before release to help produce more power in a throw.",
+    "variations": [
+      "impulse step",
+      "impulse steps"
+    ],
+    "emoji": "👣⚡",
+    "id": "gl199"
+  },
+  "inclusive": {
+    "word": "inclusive",
+    "definition": "allowing different kinds of people to take part",
+    "variations": [
+      "inclusive",
+      "inclusion"
+    ],
+    "emoji": "🤝🌍",
+    "id": "gl200"
+  },
+  "index finger": {
+    "word": "index finger",
+    "definition": "the finger next to the thumb, often used for pointing",
+    "variations": [
+      "index finger",
+      "index fingers"
+    ],
+    "emoji": "☝️✋",
+    "id": "gl201"
+  },
+  "infraction": {
+    "word": "infraction",
+    "definition": "a small rule-breaking action",
+    "variations": [
+      "infraction",
+      "infractions"
+    ],
+    "emoji": "⚠️📋",
+    "id": "gl202"
+  },
+  "infringement": {
+    "word": "infringement",
+    "definition": "an action that breaks a rule",
+    "variations": [
+      "infringement",
+      "infringements"
+    ],
+    "emoji": "⚠️📏",
+    "id": "gl203"
+  },
+  "inhale": {
+    "word": "inhale",
+    "definition": "to breathe air into the lungs",
+    "variations": [
+      "inhale",
+      "inhales",
+      "inhaled",
+      "inhaling",
+      "inhalation"
+    ],
+    "emoji": "😮🫁",
+    "id": "gl204"
+  },
+  "inhaling": {
+    "word": "inhaling",
+    "definition": "breathing air into the lungs",
+    "variations": [
+      "inhale",
+      "inhaling",
+      "inhalation"
+    ],
+    "emoji": "🫁⬅️",
+    "id": "gl205"
+  },
+  "injury prevention": {
+    "word": "injury prevention",
+    "definition": "actions taken to stop injuries from happening",
+    "variations": [
+      "injury prevention",
+      "prevent injuries",
+      "preventing injury"
+    ],
+    "emoji": "🩹⚠️",
+    "id": "gl206"
+  },
+  "intercept": {
+    "word": "intercept",
+    "definition": "to catch or stop the ball before it reaches another player",
+    "variations": [
+      "intercept",
+      "intercepts",
+      "intercepted",
+      "interception",
+      "interceptions"
+    ],
+    "emoji": "✋🏐",
+    "id": "gl207"
+  },
+  "intercepting": {
+    "word": "intercepting",
+    "definition": "cutting off a pass to gain the ball from the other team",
+    "variations": [
+      "intercept",
+      "intercepting",
+      "intercepted",
+      "intercepts"
+    ],
+    "emoji": "🏐✋",
+    "id": "gl208"
+  },
+  "interception": {
+    "word": "interception",
+    "definition": "the act of taking the ball by cutting off a pass from the other team",
+    "variations": [
+      "intercept",
+      "intercepts",
+      "intercepted",
+      "intercepting",
+      "interception",
+      "interceptions"
+    ],
+    "emoji": "✋🏀",
+    "id": "gl209"
+  },
+  "interval": {
+    "word": "interval",
+    "definition": "a break or period of time between two parts of an activity",
+    "variations": [
+      "interval",
+      "intervals"
+    ],
+    "emoji": "⏸️⌛",
+    "id": "gl210"
+  },
+  "inverted": {
+    "word": "inverted",
+    "definition": "Upside down.",
+    "variations": [
+      "inverted",
+      "invert",
+      "inversion",
+      "inversions"
+    ],
+    "emoji": "🙃🔃",
+    "id": "gl211"
+  },
+  "inverted hang": {
+    "word": "inverted hang",
+    "definition": "a hanging position where the gymnast is upside down in a controlled shape",
+    "variations": [
+      "inverted hang",
+      "inverted hangs"
+    ],
+    "emoji": "🙃🙌",
+    "id": "gl212"
+  },
+  "inverted position": {
+    "word": "inverted position",
+    "definition": "An inverted position is a body position where the head is lower than the hips or feet, so the body is upside down.",
+    "variations": [
+      "inverted position",
+      "inverted positions"
+    ],
+    "emoji": "🙃⬆️",
+    "id": "gl213"
+  },
+  "iron cross": {
+    "word": "iron cross",
+    "definition": "a ring skill where the gymnast holds the body up with arms stretched straight out to the sides like a T",
+    "variations": [
+      "iron cross",
+      "iron crosses"
+    ],
+    "emoji": "✝️💪",
+    "id": "gl214"
+  },
+  "javelin": {
+    "word": "javelin",
+    "definition": "a long spear-like object that athletes throw in a field event to reach the greatest distance.",
+    "variations": [
+      "javelin",
+      "javelins"
+    ],
+    "emoji": "🏃📏🗡️",
+    "id": "gl215"
+  },
+  "javelin throw": {
+    "word": "javelin throw",
+    "definition": "a field event in which an athlete throws a long spear-like object for distance",
+    "variations": [
+      "javelin throw",
+      "javelin throws"
+    ],
+    "emoji": "🗡️💨",
+    "id": "gl216"
+  },
+  "jawline": {
+    "word": "jawline",
+    "definition": "the lower edge of the face where the jaw forms its shape.",
+    "variations": [
+      "jawline",
+      "jawlines"
+    ],
+    "emoji": "🙂🦴",
+    "id": "gl217"
+  },
+  "jump shot": {
+    "word": "jump shot",
+    "definition": "a shot taken while jumping into the air",
+    "variations": [
+      "jump shot",
+      "jump shots"
+    ],
+    "emoji": "🏀⬆️",
+    "id": "gl218"
+  },
+  "jump-off": {
+    "word": "jump-off",
+    "definition": "an extra round of jumping used to decide a winner when athletes are tied",
+    "variations": [
+      "jump-off",
+      "jump-offs"
+    ],
+    "emoji": "🏅🔄",
+    "id": "gl219"
+  },
+  "jumping events": {
+    "word": "jumping events",
+    "definition": "field events in which athletes jump for height or distance",
+    "variations": [
+      "jumping event",
+      "jumping events"
+    ],
+    "emoji": "🤾⬆️",
+    "id": "gl220"
+  },
+  "kickboard": {
+    "word": "kickboard",
+    "definition": "a floating board that swimmers hold while practicing kicks",
+    "variations": [
+      "kickboard",
+      "kickboards"
+    ],
+    "emoji": "🏊🟦",
+    "id": "gl221"
+  },
+  "kip": {
+    "word": "kip",
+    "definition": "A kip is a gymnastics bar skill that uses swing and body action to move into support on the bar.",
+    "variations": [
+      "kip",
+      "kips"
+    ],
+    "emoji": "🤸⬆️",
+    "id": "gl222"
+  },
+  "knockout round": {
+    "word": "knockout round",
+    "definition": "a competition stage where the losing team is removed from the tournament",
+    "variations": [
+      "knockout round",
+      "knockout rounds"
+    ],
+    "emoji": "🏆❌",
+    "id": "gl223"
+  },
+  "knuckle": {
+    "word": "knuckle",
+    "definition": "a joint in the finger.",
+    "variations": [
+      "knuckle",
+      "knuckles"
+    ],
+    "emoji": "✋🦴",
+    "id": "gl224"
+  },
+  "landing": {
+    "word": "landing",
+    "definition": "the act of coming down to the ground or sand after a jump.",
+    "variations": [
+      "landing",
+      "landings"
+    ],
+    "emoji": "🦶🏖️",
+    "id": "gl225"
+  },
+  "landing area": {
+    "word": "landing area",
+    "definition": "the place prepared for athletes to land safely after a jump.",
+    "variations": [
+      "landing area",
+      "landing areas"
+    ],
+    "emoji": "🛬🦶",
+    "id": "gl226"
+  },
+  "landing mat": {
+    "word": "landing mat",
+    "definition": "a soft mat used to make landings safer after a jump or skill",
+    "variations": [
+      "landing mat",
+      "landing mats"
+    ],
+    "emoji": "🛬🟦",
+    "id": "gl227"
+  },
+  "landing pit": {
+    "word": "landing pit",
+    "definition": "the sand-filled area where an athlete lands after a jump.",
+    "variations": [
+      "landing pit",
+      "landing pits"
+    ],
+    "emoji": "🏖️🦶",
+    "id": "gl228"
+  },
+  "landing position": {
+    "word": "landing position",
+    "definition": "the body posture used when finishing a landing",
+    "variations": [
+      "landing position",
+      "landing positions"
+    ],
+    "emoji": "🧍⬇️",
+    "id": "gl229"
+  },
+  "landing sector": {
+    "word": "landing sector",
+    "definition": "the marked area where a thrown object must land for the throw to count.",
+    "variations": [
+      "landing sector",
+      "landing sectors"
+    ],
+    "emoji": "📐📍",
+    "id": "gl230"
+  },
+  "landing zone": {
+    "word": "landing zone",
+    "definition": "the marked area where the discus is supposed to land.",
+    "variations": [
+      "landing zone",
+      "landing zones"
+    ],
+    "emoji": "📍📐",
+    "id": "gl231"
+  },
+  "lane": {
+    "word": "lane",
+    "definition": "a marked section of the pool assigned to one swimmer during a race",
+    "variations": [
+      "lane",
+      "lanes"
+    ],
+    "emoji": "🏊📏",
+    "id": "gl232"
+  },
+  "lane markings": {
+    "word": "lane markings",
+    "definition": "lines in a pool that guide swimmers and help keep them in the correct path",
+    "variations": [
+      "lane marking",
+      "lane markings"
+    ],
+    "emoji": "➡️🏊",
+    "id": "gl233"
+  },
+  "lap": {
+    "word": "lap",
+    "definition": "one complete length or circuit of the pool in a race or practice",
+    "variations": [
+      "lap",
+      "laps"
+    ],
+    "emoji": "🏊🔁",
+    "id": "gl234"
+  },
+  "lateral": {
+    "word": "lateral",
+    "definition": "moving toward the side",
+    "variations": [
+      "lateral",
+      "laterally"
+    ],
+    "emoji": "↔️➡️",
+    "id": "gl235"
+  },
+  "lay-up shot": {
+    "word": "lay-up shot",
+    "definition": "a close shot taken while moving toward the hoop, often off one foot",
+    "variations": [
+      "lay-up shot",
+      "lay-up shots",
+      "layup shot",
+      "layup shots"
+    ],
+    "emoji": "🏀🦶🎯",
+    "id": "gl236"
+  },
+  "leotard": {
+    "word": "leotard",
+    "definition": "a close-fitting one-piece garment worn in gymnastics and dance",
+    "variations": [
+      "leotard",
+      "leotards"
+    ],
+    "emoji": "🤸👚",
+    "id": "gl237"
+  },
+  "lifeguards": {
+    "word": "lifeguards",
+    "definition": "trained people who watch swimmers and help in emergencies",
+    "variations": [
+      "lifeguard",
+      "lifeguards"
+    ],
+    "emoji": "🛟👀",
+    "id": "gl238"
+  },
+  "lifesaving": {
+    "word": "lifesaving",
+    "definition": "skills used to rescue a person in danger in water",
+    "variations": [
+      "lifesaving"
+    ],
+    "emoji": "🛟💧",
+    "id": "gl239"
+  },
+  "lift": {
+    "word": "lift",
+    "definition": "an upward force that helps keep the body up in the water",
+    "variations": [
+      "lift",
+      "lifts",
+      "lifted",
+      "lifting"
+    ],
+    "emoji": "⬆️🌊",
+    "id": "gl240"
+  },
+  "linear technique": {
+    "word": "linear technique",
+    "definition": "a shot put method in which the athlete moves in a straight line across the circle.",
+    "variations": [
+      "linear technique",
+      "linear techniques"
+    ],
+    "emoji": "➡️⭕",
+    "id": "gl241"
+  },
+  "lunge": {
+    "word": "lunge",
+    "definition": "a body position with one leg bent forward and the other stretched behind.",
+    "variations": [
+      "lunge",
+      "lunges"
+    ],
+    "emoji": "🦵➡️",
+    "id": "gl242"
+  },
+  "magnesium": {
+    "word": "magnesium",
+    "definition": "a substance often used as powder on the hands to help athletes hold equipment better.",
+    "variations": [
+      "magnesium"
+    ],
+    "emoji": "🧂🤲",
+    "id": "gl243"
+  },
+  "marker": {
+    "word": "marker",
+    "definition": "an object or sign used to show a place or point for the athlete.",
+    "variations": [
+      "marker",
+      "markers"
+    ],
+    "emoji": "📍🚩",
+    "id": "gl244"
+  },
+  "marking": {
+    "word": "marking",
+    "definition": "staying close to an opponent to stop them from receiving or using the ball easily",
+    "variations": [
+      "mark",
+      "marks",
+      "marked",
+      "marking"
+    ],
+    "emoji": "🛡️👣",
+    "id": "gl245"
+  },
+  "mastery": {
+    "word": "mastery",
+    "definition": "great skill or complete understanding of something",
+    "variations": [
+      "mastery",
+      "master"
+    ],
+    "emoji": "🏆📘",
+    "id": "gl246"
+  },
+  "match duration": {
+    "word": "match duration",
+    "definition": "the total length of time a game lasts",
+    "variations": [
+      "match duration",
+      "match durations"
+    ],
+    "emoji": "⏱️🏀",
+    "id": "gl247"
+  },
+  "mattress": {
+    "word": "mattress",
+    "definition": "a thick soft pad used to protect athletes when they land.",
+    "variations": [
+      "mattress",
+      "mattresses"
+    ],
+    "emoji": "🛏️🦺",
+    "id": "gl248"
+  },
+  "measuring stick": {
+    "word": "measuring stick",
+    "definition": "a tool used to check or show the height of a jump.",
+    "variations": [
+      "measuring stick",
+      "measuring sticks"
+    ],
+    "emoji": "📏📐",
+    "id": "gl249"
+  },
+  "measuring tape": {
+    "word": "measuring tape",
+    "definition": "a long strip marked with units used to measure distance",
+    "variations": [
+      "measuring tape",
+      "measuring tapes"
+    ],
+    "emoji": "📏🧰",
+    "id": "gl250"
+  },
+  "medley": {
+    "word": "medley",
+    "definition": "a swimming event that combines different strokes in one race",
+    "variations": [
+      "medley",
+      "medleys"
+    ],
+    "emoji": "🏊🔀",
+    "id": "gl251"
+  },
+  "mental focus": {
+    "word": "mental focus",
+    "definition": "the ability to concentrate clearly on what you are doing",
+    "variations": [
+      "mental focus",
+      "focus"
+    ],
+    "emoji": "🧠🎯",
+    "id": "gl252"
+  },
+  "mental health": {
+    "word": "mental health",
+    "definition": "a person’s emotional and mental well-being",
+    "variations": [
+      "mental health"
+    ],
+    "emoji": "🧠🙂",
+    "id": "gl253"
+  },
+  "metal tip": {
+    "word": "metal tip",
+    "definition": "the pointed metal end of a javelin",
+    "variations": [
+      "metal tip",
+      "metal tips"
+    ],
+    "emoji": "🔩🗡️",
+    "id": "gl254"
+  },
+  "mid-court position": {
+    "word": "mid-court position",
+    "definition": "the central playing role that links defense and attack",
+    "variations": [
+      "mid-court position",
+      "mid-court positions"
+    ],
+    "emoji": "🏐↔️",
+    "id": "gl255"
+  },
+  "midcourt": {
+    "word": "midcourt",
+    "definition": "the middle area of the court between attack and defense",
+    "variations": [
+      "midcourt"
+    ],
+    "emoji": "🏟️↔️",
+    "id": "gl256"
+  },
+  "mobility": {
+    "word": "mobility",
+    "definition": "the ability to move the body easily and freely",
+    "variations": [
+      "mobility",
+      "mobile"
+    ],
+    "emoji": "🦵🔄",
+    "id": "gl257"
+  },
+  "momentum": {
+    "word": "momentum",
+    "definition": "the force that keeps the body moving once it has started moving",
+    "variations": [
+      "momentum"
+    ],
+    "emoji": "➡️⚡",
+    "id": "gl258"
+  },
+  "motor skills": {
+    "word": "motor skills",
+    "definition": "learned movement abilities that help the body perform actions correctly",
+    "variations": [
+      "motor skill",
+      "motor skills"
+    ],
+    "emoji": "🧠💪",
+    "id": "gl259"
+  },
+  "mount": {
+    "word": "mount",
+    "definition": "The movement used to get onto a gymnastics apparatus at the start of a routine.",
+    "variations": [
+      "mount",
+      "mounts",
+      "mounting"
+    ],
+    "emoji": "⬆️🤸",
+    "id": "gl260"
+  },
+  "mounts": {
+    "word": "mounts",
+    "definition": "the ways a gymnast gets onto an apparatus to begin a routine",
+    "variations": [
+      "mount",
+      "mounts"
+    ],
+    "emoji": "🤸⬆️",
+    "id": "gl261"
+  },
+  "navigation": {
+    "word": "navigation",
+    "definition": "the skill of finding and following the right direction",
+    "variations": [
+      "navigation",
+      "navigate",
+      "navigating"
+    ],
+    "emoji": "🧭🌊",
+    "id": "gl262"
+  },
+  "netball": {
+    "word": "netball",
+    "definition": "a team sport in which players pass a ball by hand and try to score by throwing it through a hoop",
+    "variations": [
+      "netball",
+      "netballs"
+    ],
+    "emoji": "🏐⛹️🎯",
+    "id": "gl263"
+  },
+  "netball court": {
+    "word": "netball court",
+    "definition": "the marked area where a netball game is played",
+    "variations": [
+      "netball court",
+      "netball courts"
+    ],
+    "emoji": "🏟️📏",
+    "id": "gl264"
+  },
+  "neutral grip": {
+    "word": "neutral grip",
+    "definition": "a hand position where the palms face each other while holding equipment like rings",
+    "variations": [
+      "neutral grip",
+      "neutral grips"
+    ],
+    "emoji": "🤝⭕",
+    "id": "gl265"
+  },
+  "non-take-off foot": {
+    "word": "non-take-off foot",
+    "definition": "the foot that does not push off the ground during a jump",
+    "variations": [
+      "non-take-off foot",
+      "non-take-off feet"
+    ],
+    "emoji": "🦶↔️",
+    "id": "gl266"
+  },
+  "nutritious": {
+    "word": "nutritious",
+    "definition": "good for health because it provides useful food substances",
+    "variations": [
+      "nutritious",
+      "nutrition"
+    ],
+    "emoji": "🥗💪",
+    "id": "gl267"
+  },
+  "objective": {
+    "word": "objective",
+    "definition": "the goal or purpose of an activity",
+    "variations": [
+      "objective",
+      "objectives"
+    ],
+    "emoji": "🎯🏁",
+    "id": "gl268"
+  },
+  "obstruction": {
+    "word": "obstruction",
+    "definition": "a violation where a defender is too close to or blocks a player unfairly",
+    "variations": [
+      "obstruction",
+      "obstructions"
+    ],
+    "emoji": "🛑🙅",
+    "id": "gl269"
+  },
+  "official": {
+    "word": "official",
+    "definition": "a person who helps control a game and make sure rules are followed",
+    "variations": [
+      "official",
+      "officials"
+    ],
+    "emoji": "🧑‍⚖️📣",
+    "id": "gl270"
+  },
+  "offside": {
+    "word": "offside",
+    "definition": "a rule violation where a player moves into an area they are not allowed to enter",
+    "variations": [
+      "offside"
+    ],
+    "emoji": "🚫📍",
+    "id": "gl271"
+  },
+  "open water": {
+    "word": "open water",
+    "definition": "natural water like lakes, rivers, seas, or oceans used for swimming",
+    "variations": [
+      "open water",
+      "open waters"
+    ],
+    "emoji": "🌊🏊",
+    "id": "gl272"
+  },
+  "open waters": {
+    "word": "open waters",
+    "definition": "natural water areas like lakes, rivers, seas, and oceans used for swimming",
+    "variations": [
+      "open water",
+      "open waters"
+    ],
+    "emoji": "🌊🏞️",
+    "id": "gl273"
+  },
+  "opponent": {
+    "word": "opponent",
+    "definition": "the person or team playing against you",
+    "variations": [
+      "opponent",
+      "opponents"
+    ],
+    "emoji": "🆚🏃",
+    "id": "gl274"
+  },
+  "overhand grip": {
+    "word": "overhand grip",
+    "definition": "a way of holding a bar with the palms facing away from the body",
+    "variations": [
+      "overhand grip",
+      "overhand grips"
+    ],
+    "emoji": "✋🏋️",
+    "id": "gl275"
+  },
+  "overhead pass": {
+    "word": "overhead pass",
+    "definition": "a pass thrown with both hands from above the head",
+    "variations": [
+      "overhead pass",
+      "overhead passes"
+    ],
+    "emoji": "🙌🏐",
+    "id": "gl276"
+  },
+  "overtraining": {
+    "word": "overtraining",
+    "definition": "training too much without enough rest, which can cause tiredness or injury",
+    "variations": [
+      "overtraining",
+      "overtrain",
+      "overtrained"
+    ],
+    "emoji": "😓🏋️",
+    "id": "gl277"
+  },
+  "padded flooring": {
+    "word": "padded flooring",
+    "definition": "a soft floor surface that helps protect people from hard falls",
+    "variations": [
+      "padded flooring",
+      "padded floor",
+      "padded floors"
+    ],
+    "emoji": "🧩🦶",
+    "id": "gl278"
+  },
+  "padding": {
+    "word": "padding",
+    "definition": "soft material used to protect against injury",
+    "variations": [
+      "padding",
+      "paddings"
+    ],
+    "emoji": "🧽🛡️",
+    "id": "gl279"
+  },
+  "parallel bars": {
+    "word": "parallel bars",
+    "definition": "Parallel bars are two bars set side by side that a gymnast uses for swinging and support skills.",
+    "variations": [
+      "parallel bar",
+      "parallel bars"
+    ],
+    "emoji": "🤸↔️",
+    "id": "gl280"
+  },
+  "participation": {
+    "word": "participation",
+    "definition": "the act of taking part in an activity",
+    "variations": [
+      "participation",
+      "participate",
+      "participates",
+      "participated",
+      "participating"
+    ],
+    "emoji": "🙋🎽",
+    "id": "gl281"
+  },
+  "penalised": {
+    "word": "penalised",
+    "definition": "given a punishment for breaking a rule",
+    "variations": [
+      "penalised",
+      "penalize",
+      "penalized",
+      "penalising",
+      "penalizing"
+    ],
+    "emoji": "🚫🙋",
+    "id": "gl282"
+  },
+  "penalty": {
+    "word": "penalty",
+    "definition": "a punishment or advantage given because a rule was broken",
+    "variations": [
+      "penalty",
+      "penalties"
+    ],
+    "emoji": "🚫📣",
+    "id": "gl283"
+  },
+  "penalty pass": {
+    "word": "penalty pass",
+    "definition": "a pass awarded after a major rule break",
+    "variations": [
+      "penalty pass",
+      "penalty passes"
+    ],
+    "emoji": "🚫🏐",
+    "id": "gl284"
+  },
+  "personal kit": {
+    "word": "personal kit",
+    "definition": "a gymnast’s own set of needed items for practice or competition",
+    "variations": [
+      "personal kit",
+      "personal kits",
+      "kit"
+    ],
+    "emoji": "🎒🧴",
+    "id": "gl285"
+  },
+  "physical literacy": {
+    "word": "physical literacy",
+    "definition": "the ability and confidence to move well in different physical activities",
+    "variations": [
+      "physical literacy"
+    ],
+    "emoji": "🏃📘",
+    "id": "gl286"
+  },
+  "pike": {
+    "word": "pike",
+    "definition": "a body position with straight legs and the body bent at the hips",
+    "variations": [
+      "pike",
+      "pikes"
+    ],
+    "emoji": "📐🦵",
+    "id": "gl287"
+  },
+  "pike hang": {
+    "word": "pike hang",
+    "definition": "a hanging position where the legs are straight and lifted in front to make an L shape",
+    "variations": [
+      "pike hang",
+      "pike hangs"
+    ],
+    "emoji": "📐🙌",
+    "id": "gl288"
+  },
+  "pivot": {
+    "word": "pivot",
+    "definition": "to turn on one foot while keeping that foot in one place",
+    "variations": [
+      "pivot",
+      "pivots",
+      "pivoted",
+      "pivoting"
+    ],
+    "emoji": "🦶🔄",
+    "id": "gl289"
+  },
+  "pivoting": {
+    "word": "pivoting",
+    "definition": "turning on one foot while keeping that foot in place",
+    "variations": [
+      "pivot",
+      "pivoting",
+      "pivoted",
+      "pivots"
+    ],
+    "emoji": "🦶🔄",
+    "id": "gl290"
+  },
+  "placement": {
+    "word": "placement",
+    "definition": "the act of putting something in the correct position.",
+    "variations": [
+      "placement",
+      "placements"
+    ],
+    "emoji": "📍🎯",
+    "id": "gl291"
+  },
+  "planche": {
+    "word": "planche",
+    "definition": "A strength skill where the body is held straight and parallel to the ground using only the hands.",
+    "variations": [
+      "planche",
+      "planches"
+    ],
+    "emoji": "💪🤸",
+    "id": "gl292"
+  },
+  "plasticine indicator board": {
+    "word": "plasticine indicator board",
+    "definition": "a board with soft material used to show if an athlete has made a foul jump.",
+    "variations": [
+      "plasticine indicator board",
+      "plasticine indicator boards"
+    ],
+    "emoji": "📋👣",
+    "id": "gl293"
+  },
+  "pole vault": {
+    "word": "pole vault",
+    "definition": "a field event where an athlete uses a long pole to jump over a high bar.",
+    "variations": [
+      "pole vault",
+      "pole vaults"
+    ],
+    "emoji": "🥇⬆️",
+    "id": "gl294"
+  },
+  "pommel horse": {
+    "word": "pommel horse",
+    "definition": "A pommel horse is a gymnastics apparatus with handles that gymnasts use for swings and leg movements.",
+    "variations": [
+      "pommel horse",
+      "pommel horses"
+    ],
+    "emoji": "🐎🤸",
+    "id": "gl295"
+  },
+  "positioning": {
+    "word": "positioning",
+    "definition": "the way a player places themselves in the right area on the court",
+    "variations": [
+      "position",
+      "positions",
+      "positioned",
+      "positioning"
+    ],
+    "emoji": "📍🏀",
+    "id": "gl296"
+  },
+  "possession": {
+    "word": "possession",
+    "definition": "control of the ball by a player or team",
+    "variations": [
+      "possession",
+      "possessions"
+    ],
+    "emoji": "🏐✋",
+    "id": "gl297"
+  },
+  "posture": {
+    "word": "posture",
+    "definition": "the way the body is held or positioned",
+    "variations": [
+      "posture",
+      "postures"
+    ],
+    "emoji": "🧍📐",
+    "id": "gl298"
+  },
+  "precaution": {
+    "word": "precaution",
+    "definition": "an action taken in advance to prevent harm, danger, or injury",
+    "variations": [
+      "precaution",
+      "precautions",
+      "precautionary"
+    ],
+    "emoji": "⚠️🛡️",
+    "id": "gl299"
+  },
+  "precautionary": {
+    "word": "precautionary",
+    "definition": "done to prevent danger, harm, or injury",
+    "variations": [
+      "precautionary",
+      "precaution"
+    ],
+    "emoji": "⚠️🛡️",
+    "id": "gl300"
+  },
+  "precautionary measures": {
+    "word": "precautionary measures",
+    "definition": "actions taken in advance to prevent danger or harm",
+    "variations": [
+      "precautionary measure",
+      "precautionary measures"
+    ],
+    "emoji": "⚠️🛟",
+    "id": "gl301"
+  },
+  "proficient": {
+    "word": "proficient",
+    "definition": "skilled and able to do something well",
+    "variations": [
+      "proficient",
+      "proficiency"
+    ],
+    "emoji": "⭐🏊",
+    "id": "gl302"
+  },
+  "prone": {
+    "word": "prone",
+    "definition": "lying or facing downward",
+    "variations": [
+      "prone"
+    ],
+    "emoji": "⬇️🛏️",
+    "id": "gl303"
+  },
+  "prone position": {
+    "word": "prone position",
+    "definition": "a body position lying face down",
+    "variations": [
+      "prone position",
+      "prone positions",
+      "prone"
+    ],
+    "emoji": "⬇️🏊",
+    "id": "gl304"
+  },
+  "propel": {
+    "word": "propel",
+    "definition": "to push or drive something forward.",
+    "variations": [
+      "propel",
+      "propels",
+      "propelling",
+      "propelled"
+    ],
+    "emoji": "➡️💪",
+    "id": "gl305"
+  },
+  "propulsion": {
+    "word": "propulsion",
+    "definition": "the force that pushes a swimmer forward in the water",
+    "variations": [
+      "propulsion",
+      "propel",
+      "propels",
+      "propelled",
+      "propelling"
+    ],
+    "emoji": "➡️🏊",
+    "id": "gl306"
+  },
+  "protective barrier": {
+    "word": "protective barrier",
+    "definition": "a structure that helps stop danger or injury",
+    "variations": [
+      "protective barrier",
+      "protective barriers"
+    ],
+    "emoji": "🛡️🚧",
+    "id": "gl307"
+  },
+  "pull buoy": {
+    "word": "pull buoy",
+    "definition": "a floating device placed between the legs to help swimmers focus on arm movements",
+    "variations": [
+      "pull buoy",
+      "pull buoys"
+    ],
+    "emoji": "🛟💪",
+    "id": "gl308"
+  },
+  "quarter": {
+    "word": "quarter",
+    "definition": "one of the four parts of a netball match",
+    "variations": [
+      "quarter",
+      "quarters"
+    ],
+    "emoji": "🕒4️⃣",
+    "id": "gl309"
+  },
+  "radius": {
+    "word": "radius",
+    "definition": "the distance from the centre of a circle to its edge",
+    "variations": [
+      "radius",
+      "radii"
+    ],
+    "emoji": "⭕📏",
+    "id": "gl310"
+  },
+  "rebound": {
+    "word": "rebound",
+    "definition": "the ball that comes back after a missed shot, which players try to catch",
+    "variations": [
+      "rebound",
+      "rebounds",
+      "rebounded",
+      "rebounding"
+    ],
+    "emoji": "🏀↩️",
+    "id": "gl311"
+  },
+  "recovery phase": {
+    "word": "recovery phase",
+    "definition": "the part of a swimming stroke when the arm returns to its starting position",
+    "variations": [
+      "recovery phase",
+      "recovery phases"
+    ],
+    "emoji": "🔄💪",
+    "id": "gl312"
+  },
+  "recreation": {
+    "word": "recreation",
+    "definition": "activity done for enjoyment, fun, or health",
+    "variations": [
+      "recreation",
+      "recreational"
+    ],
+    "emoji": "😊🎽",
+    "id": "gl313"
+  },
+  "recreational": {
+    "word": "recreational",
+    "definition": "done for enjoyment, fun, or leisure",
+    "variations": [
+      "recreational",
+      "recreation"
+    ],
+    "emoji": "😄🏖️",
+    "id": "gl314"
+  },
+  "recreational pools": {
+    "word": "recreational pools",
+    "definition": "pools made mainly for fun and leisure swimming",
+    "variations": [
+      "recreational pool",
+      "recreational pools"
+    ],
+    "emoji": "🏊🏖️",
+    "id": "gl315"
+  },
+  "rectangular": {
+    "word": "rectangular",
+    "definition": "having the shape of a rectangle",
+    "variations": [
+      "rectangular",
+      "rectangle",
+      "rectangles"
+    ],
+    "emoji": "▭📐",
+    "id": "gl316"
+  },
+  "reflex": {
+    "word": "reflex",
+    "definition": "a quick automatic reaction to something",
+    "variations": [
+      "reflex",
+      "reflexes"
+    ],
+    "emoji": "⚡👀",
+    "id": "gl317"
+  },
+  "regulation": {
+    "word": "regulation",
+    "definition": "an official rule that controls how something is done",
+    "variations": [
+      "regulation",
+      "regulations"
+    ],
+    "emoji": "📘⚖️",
+    "id": "gl318"
+  },
+  "rehydrate": {
+    "word": "rehydrate",
+    "definition": "to drink water or fluids to replace what the body has lost",
+    "variations": [
+      "rehydrate",
+      "rehydrated",
+      "rehydration"
+    ],
+    "emoji": "💧🥤",
+    "id": "gl319"
+  },
+  "relay": {
+    "word": "relay",
+    "definition": "a team race in which each person completes one part before the next teammate continues",
+    "variations": [
+      "relay",
+      "relays"
+    ],
+    "emoji": "🤝🏁",
+    "id": "gl320"
+  },
+  "release": {
+    "word": "release",
+    "definition": "the act of letting go of an object during a throw or jump action.",
+    "variations": [
+      "release",
+      "releases",
+      "releasing",
+      "released"
+    ],
+    "emoji": "✋➡️",
+    "id": "gl321"
+  },
+  "resistance": {
+    "word": "resistance",
+    "definition": "a force that makes movement through water harder",
+    "variations": [
+      "resistance"
+    ],
+    "emoji": "🌊✋",
+    "id": "gl322"
+  },
+  "rhythmic gymnastics": {
+    "word": "rhythmic gymnastics",
+    "definition": "a type of gymnastics that combines movement, dance, and apparatus such as ribbons or hoops",
+    "variations": [
+      "rhythmic gymnastics"
+    ],
+    "emoji": "🎀🤸",
+    "id": "gl323"
+  },
+  "rim": {
+    "word": "rim",
+    "definition": "the outer edge of a round object.",
+    "variations": [
+      "rim",
+      "rims"
+    ],
+    "emoji": "⭕🔵",
+    "id": "gl324"
+  },
+  "ring": {
+    "word": "ring",
+    "definition": "One of the hanging circular pieces of equipment used in gymnastics.",
+    "variations": [
+      "ring",
+      "rings"
+    ],
+    "emoji": "⭕🤸",
+    "id": "gl325"
+  },
+  "rings": {
+    "word": "rings",
+    "definition": "two hanging circles used in gymnastics for strength and control skills",
+    "variations": [
+      "ring",
+      "rings",
+      "still rings"
+    ],
+    "emoji": "⭕💪",
+    "id": "gl326"
+  },
+  "rotate": {
+    "word": "rotate",
+    "definition": "to turn around a centre point or axis.",
+    "variations": [
+      "rotate",
+      "rotates",
+      "rotating",
+      "rotated",
+      "rotation",
+      "rotational"
+    ],
+    "emoji": "🔄🌀",
+    "id": "gl327"
+  },
+  "rotation": {
+    "word": "rotation",
+    "definition": "Rotation is the turning movement of the body around an axis during a skill.",
+    "variations": [
+      "rotation",
+      "rotations",
+      "rotate",
+      "rotating",
+      "rotated"
+    ],
+    "emoji": "🔄🤸",
+    "id": "gl328"
+  },
+  "rotational technique": {
+    "word": "rotational technique",
+    "definition": "a shot put method in which the athlete spins to create speed and power before the push.",
+    "variations": [
+      "rotational technique",
+      "rotational techniques"
+    ],
+    "emoji": "🔄💪",
+    "id": "gl329"
+  },
+  "round-off": {
+    "word": "round-off",
+    "definition": "A gymnastics move like a turning cartwheel that finishes with both feet landing together.",
+    "variations": [
+      "round-off",
+      "round-offs"
+    ],
+    "emoji": "🤸🔄",
+    "id": "gl330"
+  },
+  "routine": {
+    "word": "routine",
+    "definition": "A planned series of movements or skills performed in order.",
+    "variations": [
+      "routine",
+      "routines"
+    ],
+    "emoji": "📋🤸",
+    "id": "gl331"
+  },
+  "run-up": {
+    "word": "run-up",
+    "definition": "the approach run before a jump or throw.",
+    "variations": [
+      "run-up",
+      "run-ups"
+    ],
+    "emoji": "🏃➡️",
+    "id": "gl332"
+  },
+  "runway": {
+    "word": "runway",
+    "definition": "the track or path an athlete runs on before taking off for a jump.",
+    "variations": [
+      "runway",
+      "runways"
+    ],
+    "emoji": "🏃📍",
+    "id": "gl333"
+  },
+  "safety gear": {
+    "word": "safety gear",
+    "definition": "equipment worn or used to help prevent injury",
+    "variations": [
+      "safety gear"
+    ],
+    "emoji": "⛑️🛡️",
+    "id": "gl334"
+  },
+  "sanction": {
+    "word": "sanction",
+    "definition": "an official action taken in response to breaking a rule",
+    "variations": [
+      "sanction",
+      "sanctions"
+    ],
+    "emoji": "⚖️📋",
+    "id": "gl335"
+  },
+  "sandpit": {
+    "word": "sandpit",
+    "definition": "a pit filled with sand where athletes land in jumping events.",
+    "variations": [
+      "sandpit",
+      "sandpits"
+    ],
+    "emoji": "🏖️🦶",
+    "id": "gl336"
+  },
+  "scissor motion": {
+    "word": "scissor motion",
+    "definition": "Scissor motion is a leg movement where the legs swing past each other like the blades of scissors.",
+    "variations": [
+      "scissor motion",
+      "scissor motions"
+    ],
+    "emoji": "✂️🦵",
+    "id": "gl337"
+  },
+  "scissors": {
+    "word": "scissors",
+    "definition": "a high jump technique where the legs move over the bar one after the other like scissors",
+    "variations": [
+      "scissors",
+      "scissor technique",
+      "scissor"
+    ],
+    "emoji": "✂️🦵",
+    "id": "gl338"
+  },
+  "scissors leap": {
+    "word": "scissors leap",
+    "definition": "a jump where one leg goes forward and the other goes backward like scissors.",
+    "variations": [
+      "scissors leap",
+      "scissors leaps"
+    ],
+    "emoji": "✂️🤸",
+    "id": "gl339"
+  },
+  "score": {
+    "word": "score",
+    "definition": "to get points in a game or sport",
+    "variations": [
+      "score",
+      "scores",
+      "scored",
+      "scoring"
+    ],
+    "emoji": "🔢🏅",
+    "id": "gl340"
+  },
+  "scoring": {
+    "word": "scoring",
+    "definition": "making a goal by getting the ball through the hoop",
+    "variations": [
+      "score",
+      "scoring",
+      "scored",
+      "scores"
+    ],
+    "emoji": "🥅✅",
+    "id": "gl341"
+  },
+  "sculling": {
+    "word": "sculling",
+    "definition": "small controlled arm movements used to push water and help the body stay afloat or move",
+    "variations": [
+      "scull",
+      "sculls",
+      "sculling",
+      "sculled"
+    ],
+    "emoji": "🖐️🌊",
+    "id": "gl342"
+  },
+  "sector": {
+    "word": "sector",
+    "definition": "the marked area where a thrown object must land to count as a valid throw.",
+    "variations": [
+      "sector",
+      "sectors"
+    ],
+    "emoji": "📐🏟️",
+    "id": "gl343"
+  },
+  "self-discipline": {
+    "word": "self-discipline",
+    "definition": "the ability to control yourself and keep working toward a goal",
+    "variations": [
+      "self-discipline"
+    ],
+    "emoji": "🎯💪",
+    "id": "gl344"
+  },
+  "semi-circular runway": {
+    "word": "semi-circular runway",
+    "definition": "a curved running area used by athletes before taking off in the high jump.",
+    "variations": [
+      "semi-circular runway",
+      "semi-circular runways"
+    ],
+    "emoji": "🏃⭕",
+    "id": "gl345"
+  },
+  "set shot": {
+    "word": "set shot",
+    "definition": "a controlled shot taken while standing still to improve accuracy",
+    "variations": [
+      "set shot",
+      "set shots"
+    ],
+    "emoji": "🏀🎯",
+    "id": "gl346"
+  },
+  "shaft": {
+    "word": "shaft",
+    "definition": "the long main body of an object such as a javelin",
+    "variations": [
+      "shaft",
+      "shafts"
+    ],
+    "emoji": "📏🗡️",
+    "id": "gl347"
+  },
+  "shoot": {
+    "word": "shoot",
+    "definition": "to throw or hit the ball toward the goal in order to score",
+    "variations": [
+      "shoot",
+      "shoots",
+      "shooting",
+      "shot"
+    ],
+    "emoji": "🎯🏐",
+    "id": "gl348"
+  },
+  "shooting": {
+    "word": "shooting",
+    "definition": "the act of trying to score by throwing the ball into the hoop",
+    "variations": [
+      "shoot",
+      "shoots",
+      "shot",
+      "shots",
+      "shooting"
+    ],
+    "emoji": "🏀🎯",
+    "id": "gl349"
+  },
+  "shooting accuracy": {
+    "word": "shooting accuracy",
+    "definition": "the ability to aim and score goals correctly",
+    "variations": [
+      "shooting accuracy"
+    ],
+    "emoji": "🎯🥅",
+    "id": "gl350"
+  },
+  "short course pools": {
+    "word": "short course pools",
+    "definition": "swimming pools that are 25 metres long",
+    "variations": [
+      "short course pool",
+      "short course pools"
+    ],
+    "emoji": "🏊25️⃣",
+    "id": "gl351"
+  },
+  "shot put": {
+    "word": "shot put",
+    "definition": "a field event in which an athlete pushes a heavy metal ball as far as possible.",
+    "variations": [
+      "shot put"
+    ],
+    "emoji": "🏋️⚫📏",
+    "id": "gl352"
+  },
+  "shoulder pass": {
+    "word": "shoulder pass",
+    "definition": "a strong one-handed pass thrown from near the shoulder",
+    "variations": [
+      "shoulder pass",
+      "shoulder passes"
+    ],
+    "emoji": "💪🏐",
+    "id": "gl353"
+  },
+  "sideline": {
+    "word": "sideline",
+    "definition": "the line along the side edge of a playing area",
+    "variations": [
+      "sideline",
+      "sidelines"
+    ],
+    "emoji": "➡️📏",
+    "id": "gl354"
+  },
+  "simultaneously": {
+    "word": "simultaneously",
+    "definition": "at the same time",
+    "variations": [
+      "simultaneously",
+      "simultaneous"
+    ],
+    "emoji": "⏱️🤝",
+    "id": "gl355"
+  },
+  "skin-the-cat": {
+    "word": "skin-the-cat",
+    "definition": "Skin-the-cat is a gymnastics movement where the body rotates backward through the arms into an inverted position and then returns or dismounts.",
+    "variations": [
+      "skin-the-cat"
+    ],
+    "emoji": "🔄🙃🤸",
+    "id": "gl356"
+  },
+  "spatial awareness": {
+    "word": "spatial awareness",
+    "definition": "understanding where your body is and how it moves in space",
+    "variations": [
+      "spatial awareness"
+    ],
+    "emoji": "🧠📍",
+    "id": "gl357"
+  },
+  "spectator": {
+    "word": "spectator",
+    "definition": "a person who watches a sport or event.",
+    "variations": [
+      "spectator",
+      "spectators"
+    ],
+    "emoji": "👀🏟️",
+    "id": "gl358"
+  },
+  "speed": {
+    "word": "speed",
+    "definition": "how fast a person moves",
+    "variations": [
+      "speed",
+      "speeds"
+    ],
+    "emoji": "⚡🏃",
+    "id": "gl359"
+  },
+  "spherical": {
+    "word": "spherical",
+    "definition": "round like a ball",
+    "variations": [
+      "spherical",
+      "sphere",
+      "spheres"
+    ],
+    "emoji": "⚽⭕",
+    "id": "gl360"
+  },
+  "spin": {
+    "word": "spin",
+    "definition": "to turn around quickly in a circular movement.",
+    "variations": [
+      "spin",
+      "spins",
+      "spinning",
+      "spun"
+    ],
+    "emoji": "🔄🌀",
+    "id": "gl361"
+  },
+  "split": {
+    "word": "split",
+    "definition": "A position where the legs stretch far apart in opposite directions.",
+    "variations": [
+      "split",
+      "splits"
+    ],
+    "emoji": "🦵↔️",
+    "id": "gl362"
+  },
+  "split hold": {
+    "word": "split hold",
+    "definition": "a balance position where the legs are stretched apart in a split while the body stays controlled.",
+    "variations": [
+      "split hold",
+      "split holds"
+    ],
+    "emoji": "🤸↔️",
+    "id": "gl363"
+  },
+  "split leap": {
+    "word": "split leap",
+    "definition": "a jump in which the legs stretch into a split in the air",
+    "variations": [
+      "split leap",
+      "split leaps"
+    ],
+    "emoji": "🦘🦵",
+    "id": "gl364"
+  },
+  "split press to handstand": {
+    "word": "split press to handstand",
+    "definition": "A gymnastics skill where a gymnast lifts from a split position into a handstand without swinging.",
+    "variations": [
+      "split press to handstand",
+      "split press handstand",
+      "split press to handstands"
+    ],
+    "emoji": "🤸⬆️🙌",
+    "id": "gl365"
+  },
+  "splits": {
+    "word": "splits",
+    "definition": "a flexibility exercise where the legs stretch apart in opposite directions",
+    "variations": [
+      "split",
+      "splits"
+    ],
+    "emoji": "🤸🦵",
+    "id": "gl366"
+  },
+  "sportsmanship": {
+    "word": "sportsmanship",
+    "definition": "fair, respectful, and positive behavior in sport",
+    "variations": [
+      "sportsmanship"
+    ],
+    "emoji": "🤝🏅",
+    "id": "gl367"
+  },
+  "spotting": {
+    "word": "spotting",
+    "definition": "carefully supporting or watching a gymnast during practice to help prevent injury",
+    "variations": [
+      "spotting",
+      "spot"
+    ],
+    "emoji": "👀🤝",
+    "id": "gl368"
+  },
+  "spring": {
+    "word": "spring",
+    "definition": "a quick powerful movement that pushes the body into the air.",
+    "variations": [
+      "spring",
+      "springs"
+    ],
+    "emoji": "💥⬆️",
+    "id": "gl369"
+  },
+  "spring floor": {
+    "word": "spring floor",
+    "definition": "a special gymnastics floor that gives bounce and helps absorb impact",
+    "variations": [
+      "spring floor",
+      "spring floors"
+    ],
+    "emoji": "🤸🌀",
+    "id": "gl370"
+  },
+  "springboard": {
+    "word": "springboard",
+    "definition": "a board that helps a gymnast bounce upward for takeoff.",
+    "variations": [
+      "springboard",
+      "springboards"
+    ],
+    "emoji": "🪜⬆️",
+    "id": "gl371"
+  },
+  "springs": {
+    "word": "springs",
+    "definition": "quick powerful movements that push the body into the air",
+    "variations": [
+      "spring",
+      "springs"
+    ],
+    "emoji": "⬆️💥",
+    "id": "gl372"
+  },
+  "stability": {
+    "word": "stability",
+    "definition": "the ability to stay steady and not lose balance",
+    "variations": [
+      "stable",
+      "stability"
+    ],
+    "emoji": "⚖️🧍",
+    "id": "gl373"
+  },
+  "stance": {
+    "word": "stance",
+    "definition": "the position of the body and feet when getting ready to move or perform a skill.",
+    "variations": [
+      "stance",
+      "stances"
+    ],
+    "emoji": "🧍👣",
+    "id": "gl374"
+  },
+  "stand": {
+    "word": "stand",
+    "definition": "one of the upright supports that hold the crossbar in the high jump.",
+    "variations": [
+      "stand",
+      "stands"
+    ],
+    "emoji": "🪜🏟️",
+    "id": "gl375"
+  },
+  "standing scale": {
+    "word": "standing scale",
+    "definition": "A balance skill where a gymnast stands on one leg and lifts the other leg in a controlled way.",
+    "variations": [
+      "standing scale",
+      "standing scales"
+    ],
+    "emoji": "🧍⚖️",
+    "id": "gl376"
+  },
+  "starting blocks": {
+    "word": "starting blocks",
+    "definition": "raised platforms where swimmers stand to begin a race",
+    "variations": [
+      "starting block",
+      "starting blocks"
+    ],
+    "emoji": "🏁🧱",
+    "id": "gl377"
+  },
+  "stationary": {
+    "word": "stationary",
+    "definition": "not moving",
+    "variations": [
+      "stationary"
+    ],
+    "emoji": "🛑📍",
+    "id": "gl378"
+  },
+  "step": {
+    "word": "step",
+    "definition": "the second phase of the triple jump, where the athlete lands on the opposite foot.",
+    "variations": [
+      "step",
+      "steps",
+      "stepping"
+    ],
+    "emoji": "👣➡️",
+    "id": "gl379"
+  },
+  "stiffness": {
+    "word": "stiffness",
+    "definition": "a feeling of tightness or difficulty in moving muscles or joints",
+    "variations": [
+      "stiffness",
+      "stiff"
+    ],
+    "emoji": "🦵😬",
+    "id": "gl380"
+  },
+  "stop board": {
+    "word": "stop board",
+    "definition": "a board at the front of the shot put circle that helps mark the limit the athlete must not step over.",
+    "variations": [
+      "stop board",
+      "stop boards"
+    ],
+    "emoji": "🪵🚧",
+    "id": "gl381"
+  },
+  "stopwatch": {
+    "word": "stopwatch",
+    "definition": "a watch used to measure time exactly during sports activities.",
+    "variations": [
+      "stopwatch",
+      "stopwatches"
+    ],
+    "emoji": "⏱️⌚",
+    "id": "gl382"
+  },
+  "straddle": {
+    "word": "straddle",
+    "definition": "a body position where the legs are spread apart to the sides",
+    "variations": [
+      "straddle",
+      "straddles",
+      "straddled"
+    ],
+    "emoji": "↔️🦵",
+    "id": "gl383"
+  },
+  "straddle cast": {
+    "word": "straddle cast",
+    "definition": "a type of cast done with the legs spread apart to the sides",
+    "variations": [
+      "straddle cast",
+      "straddle casts"
+    ],
+    "emoji": "🤸↔️",
+    "id": "gl384"
+  },
+  "straddle planche": {
+    "word": "straddle planche",
+    "definition": "A planche done with the legs spread apart.",
+    "variations": [
+      "straddle planche",
+      "straddle planches"
+    ],
+    "emoji": "💪↔️🤸",
+    "id": "gl385"
+  },
+  "straight arm hang": {
+    "word": "straight arm hang",
+    "definition": "a hanging position with the arms fully extended and the body kept straight or slightly hollow",
+    "variations": [
+      "straight arm hang",
+      "straight arm hangs"
+    ],
+    "emoji": "🧍🙌",
+    "id": "gl386"
+  },
+  "strategic": {
+    "word": "strategic",
+    "definition": "planned carefully to achieve a goal",
+    "variations": [
+      "strategic",
+      "strategy",
+      "strategies"
+    ],
+    "emoji": "🧠♟️",
+    "id": "gl387"
+  },
+  "streamlined": {
+    "word": "streamlined",
+    "definition": "held in a straight smooth shape to reduce resistance in water",
+    "variations": [
+      "streamline",
+      "streamlines",
+      "streamlined",
+      "streamlining"
+    ],
+    "emoji": "➡️💨",
+    "id": "gl388"
+  },
+  "stretching": {
+    "word": "stretching",
+    "definition": "exercises that lengthen muscles to improve flexibility and prepare the body for movement",
+    "variations": [
+      "stretching",
+      "stretch"
+    ],
+    "emoji": "🤸🦵",
+    "id": "gl389"
+  },
+  "stride": {
+    "word": "stride",
+    "definition": "a jumping style in the air where the athlete keeps a running-like position.",
+    "variations": [
+      "stride",
+      "strides"
+    ],
+    "emoji": "🏃🕊️",
+    "id": "gl390"
+  },
+  "stride technique": {
+    "word": "stride technique",
+    "definition": "a jumping style where the athlete keeps the take-off position until landing",
+    "variations": [
+      "stride technique",
+      "stride techniques"
+    ],
+    "emoji": "🏃📐",
+    "id": "gl391"
+  },
+  "stroke": {
+    "word": "stroke",
+    "definition": "a method or style of swimming using specific arm and leg movements",
+    "variations": [
+      "stroke",
+      "strokes"
+    ],
+    "emoji": "🏊💦",
+    "id": "gl392"
+  },
+  "submerge": {
+    "word": "submerge",
+    "definition": "to go under the water",
+    "variations": [
+      "submerge",
+      "submerges",
+      "submerged",
+      "submerging"
+    ],
+    "emoji": "🌊🤿",
+    "id": "gl393"
+  },
+  "submerged": {
+    "word": "submerged",
+    "definition": "completely under water",
+    "variations": [
+      "submerge",
+      "submerged",
+      "submerging"
+    ],
+    "emoji": "🌊⬇️",
+    "id": "gl394"
+  },
+  "supervision": {
+    "word": "supervision",
+    "definition": "watching over people carefully to keep them safe",
+    "variations": [
+      "supervision"
+    ],
+    "emoji": "👀🛟",
+    "id": "gl395"
+  },
+  "support hold": {
+    "word": "support hold",
+    "definition": "a position where the gymnast holds the body up on the rings with straight arms",
+    "variations": [
+      "support hold",
+      "support holds"
+    ],
+    "emoji": "💪⭕",
+    "id": "gl396"
+  },
+  "survival": {
+    "word": "survival",
+    "definition": "the ability to stay alive, especially in a dangerous situation",
+    "variations": [
+      "survival",
+      "survive",
+      "survives",
+      "survived",
+      "surviving"
+    ],
+    "emoji": "🛟💪",
+    "id": "gl397"
+  },
+  "suspension": {
+    "word": "suspension",
+    "definition": "a period when a player is not allowed to take part in the game",
+    "variations": [
+      "suspension",
+      "suspensions"
+    ],
+    "emoji": "⏸️🚫",
+    "id": "gl398"
+  },
+  "swim cap": {
+    "word": "swim cap",
+    "definition": "a tight cover worn on the head while swimming",
+    "variations": [
+      "swim cap",
+      "swim caps"
+    ],
+    "emoji": "🧢🏊",
+    "id": "gl399"
+  },
+  "swimming": {
+    "word": "swimming",
+    "definition": "the activity or sport of moving through water using the arms and legs",
+    "variations": [
+      "swimming",
+      "swim",
+      "swims",
+      "swam",
+      "swum"
+    ],
+    "emoji": "🏊💧",
+    "id": "gl400"
+  },
+  "swimming pool": {
+    "word": "swimming pool",
+    "definition": "a man-made place filled with water for swimming",
+    "variations": [
+      "swimming pool",
+      "swimming pools"
+    ],
+    "emoji": "🏊💧",
+    "id": "gl401"
+  },
+  "swimsuit": {
+    "word": "swimsuit",
+    "definition": "clothing made to be worn while swimming",
+    "variations": [
+      "swimsuit",
+      "swimsuits"
+    ],
+    "emoji": "🩱🏊",
+    "id": "gl402"
+  },
+  "swing": {
+    "word": "swing",
+    "definition": "a controlled movement of the body back and forth on a bar or rings",
+    "variations": [
+      "swing",
+      "swings",
+      "swinging"
+    ],
+    "emoji": "↔️🤸",
+    "id": "gl403"
+  },
+  "swing-off dismount": {
+    "word": "swing-off dismount",
+    "definition": "A swing-off dismount is a dismount where the gymnast swings to build momentum and then leaves the apparatus to land.",
+    "variations": [
+      "swing-off dismount",
+      "swing-off dismounts"
+    ],
+    "emoji": "🌪️⬇️",
+    "id": "gl404"
+  },
+  "swings": {
+    "word": "swings",
+    "definition": "controlled back-and-forth movements on gymnastics apparatus",
+    "variations": [
+      "swing",
+      "swings",
+      "swinging"
+    ],
+    "emoji": "🤸↔️",
+    "id": "gl405"
+  },
+  "swivel": {
+    "word": "swivel",
+    "definition": "to turn around a fixed point",
+    "variations": [
+      "swivel",
+      "swivels",
+      "swivelling",
+      "swiveled"
+    ],
+    "emoji": "🔄↪️",
+    "id": "gl406"
+  },
+  "synchronise": {
+    "word": "synchronise",
+    "definition": "to make things happen at the same time and in the correct order",
+    "variations": [
+      "synchronise",
+      "synchronises",
+      "synchronised",
+      "synchronising",
+      "synchronize",
+      "synchronizes",
+      "synchronized",
+      "synchronizing",
+      "synchronization",
+      "synchronisation"
+    ],
+    "emoji": "⏱️🤝",
+    "id": "gl407"
+  },
+  "synthetic": {
+    "word": "synthetic",
+    "definition": "made by people using chemicals or other materials, not natural",
+    "variations": [
+      "synthetic",
+      "synthetics"
+    ],
+    "emoji": "🧪🏭",
+    "id": "gl408"
+  },
+  "take-off": {
+    "word": "take-off",
+    "definition": "the action of pushing off the ground to start a jump.",
+    "variations": [
+      "take-off",
+      "take-offs"
+    ],
+    "emoji": "🚀🦵",
+    "id": "gl409"
+  },
+  "take-off angle": {
+    "word": "take-off angle",
+    "definition": "the angle of the body when leaving the ground or board for a jump",
+    "variations": [
+      "take-off angle",
+      "take-off angles"
+    ],
+    "emoji": "📐⬆️",
+    "id": "gl410"
+  },
+  "take-off board": {
+    "word": "take-off board",
+    "definition": "a marked board where an athlete pushes off from the ground to begin a jump.",
+    "variations": [
+      "take-off board",
+      "take-off boards"
+    ],
+    "emoji": "🏃🦘",
+    "id": "gl411"
+  },
+  "take-off foot": {
+    "word": "take-off foot",
+    "definition": "the foot used to push off the ground when jumping",
+    "variations": [
+      "take-off foot",
+      "take-off feet"
+    ],
+    "emoji": "🦶⬆️",
+    "id": "gl412"
+  },
+  "tap swing": {
+    "word": "tap swing",
+    "definition": "a bar swing that uses a quick hip action to build power and momentum",
+    "variations": [
+      "tap swing",
+      "tap swings"
+    ],
+    "emoji": "🤸⚡",
+    "id": "gl413"
+  },
+  "tapered": {
+    "word": "tapered",
+    "definition": "becoming narrower at one end",
+    "variations": [
+      "tapered",
+      "taper"
+    ],
+    "emoji": "📏🔻",
+    "id": "gl414"
+  },
+  "team composition": {
+    "word": "team composition",
+    "definition": "the number of players in a team and the positions they play",
+    "variations": [
+      "team composition",
+      "team compositions"
+    ],
+    "emoji": "👥📋",
+    "id": "gl415"
+  },
+  "teammate": {
+    "word": "teammate",
+    "definition": "a person who is on the same team as you",
+    "variations": [
+      "teammate",
+      "teammates"
+    ],
+    "emoji": "👥🤝",
+    "id": "gl416"
+  },
+  "teamwork": {
+    "word": "teamwork",
+    "definition": "working together with other people to reach a common goal",
+    "variations": [
+      "teamwork"
+    ],
+    "emoji": "🤝👥",
+    "id": "gl417"
+  },
+  "technical foul": {
+    "word": "technical foul",
+    "definition": "a rule-breaking action in a game that leads to a penalty",
+    "variations": [
+      "technical foul",
+      "technical fouls"
+    ],
+    "emoji": "🚫📣",
+    "id": "gl418"
+  },
+  "technique": {
+    "word": "technique",
+    "definition": "the correct way of doing a skill or movement.",
+    "variations": [
+      "technique",
+      "techniques"
+    ],
+    "emoji": "🎯🏃",
+    "id": "gl419"
+  },
+  "therapeutic": {
+    "word": "therapeutic",
+    "definition": "helping to heal, improve health, or reduce pain",
+    "variations": [
+      "therapeutic"
+    ],
+    "emoji": "🩹💆",
+    "id": "gl420"
+  },
+  "throw": {
+    "word": "throw",
+    "definition": "to send an object through the air using the arm and hand.",
+    "variations": [
+      "throw",
+      "throws",
+      "throwing",
+      "threw",
+      "thrown"
+    ],
+    "emoji": "🥏🏃💪",
+    "id": "gl421"
+  },
+  "throw-in": {
+    "word": "throw-in",
+    "definition": "a way of putting the ball back into play from the sideline after it goes out of court",
+    "variations": [
+      "throw-in",
+      "throw-ins"
+    ],
+    "emoji": "↩️🏐",
+    "id": "gl422"
+  },
+  "throwing arc": {
+    "word": "throwing arc",
+    "definition": "the curved line or area that helps mark where a throw must be made from",
+    "variations": [
+      "throwing arc",
+      "throwing arcs"
+    ],
+    "emoji": "🌙📏",
+    "id": "gl423"
+  },
+  "throwing area": {
+    "word": "throwing area",
+    "definition": "the marked place where a throwing event happens",
+    "variations": [
+      "throwing area",
+      "throwing areas"
+    ],
+    "emoji": "🎯📍",
+    "id": "gl424"
+  },
+  "throwing cage": {
+    "word": "throwing cage",
+    "definition": "a protective fenced area used to help control the direction of throws",
+    "variations": [
+      "throwing cage",
+      "throwing cages"
+    ],
+    "emoji": "🥅🛡️",
+    "id": "gl425"
+  },
+  "throwing circle": {
+    "word": "throwing circle",
+    "definition": "the round area where an athlete stands to perform a throw.",
+    "variations": [
+      "throwing circle",
+      "throwing circles"
+    ],
+    "emoji": "⭕🏃",
+    "id": "gl426"
+  },
+  "throwing events": {
+    "word": "throwing events",
+    "definition": "field events in which athletes throw an object as far as possible",
+    "variations": [
+      "throwing event",
+      "throwing events"
+    ],
+    "emoji": "🥏💪",
+    "id": "gl427"
+  },
+  "thumb": {
+    "word": "thumb",
+    "definition": "the short thick finger on the side of the hand",
+    "variations": [
+      "thumb",
+      "thumbs"
+    ],
+    "emoji": "👍✋",
+    "id": "gl428"
+  },
+  "tides": {
+    "word": "tides",
+    "definition": "the regular rising and falling of the sea level",
+    "variations": [
+      "tide",
+      "tides"
+    ],
+    "emoji": "🌊🌙",
+    "id": "gl429"
+  },
+  "torso": {
+    "word": "torso",
+    "definition": "the main part of the body, not including the head, arms, or legs.",
+    "variations": [
+      "torso",
+      "torsos"
+    ],
+    "emoji": "🧍💪",
+    "id": "gl430"
+  },
+  "track events": {
+    "word": "track events",
+    "definition": "athletics events that take place on a running track",
+    "variations": [
+      "track event",
+      "track events"
+    ],
+    "emoji": "🏃⭕",
+    "id": "gl431"
+  },
+  "trajectory": {
+    "word": "trajectory",
+    "definition": "the curved path an object follows through the air.",
+    "variations": [
+      "trajectory",
+      "trajectories"
+    ],
+    "emoji": "🛫➰",
+    "id": "gl432"
+  },
+  "trampoline": {
+    "word": "trampoline",
+    "definition": "a strong stretched surface used for bouncing and performing jumps",
+    "variations": [
+      "trampoline",
+      "trampolines"
+    ],
+    "emoji": "🤸⬆️",
+    "id": "gl433"
+  },
+  "treading water": {
+    "word": "treading water",
+    "definition": "the skill of staying upright in deep water without sinking",
+    "variations": [
+      "tread water",
+      "treading water",
+      "treads water",
+      "trod water"
+    ],
+    "emoji": "🏊🌊",
+    "id": "gl434"
+  },
+  "trial": {
+    "word": "trial",
+    "definition": "one official chance for an athlete to perform a jump.",
+    "variations": [
+      "trial",
+      "trials"
+    ],
+    "emoji": "🔁🏅",
+    "id": "gl435"
+  },
+  "triple jump": {
+    "word": "triple jump",
+    "definition": "a field event where an athlete performs a hop, a step, and a jump to travel as far as possible.",
+    "variations": [
+      "triple jump",
+      "triple jumps"
+    ],
+    "emoji": "🦘🏅",
+    "id": "gl436"
+  },
+  "tuck": {
+    "word": "tuck",
+    "definition": "a body position where the knees are pulled in close to the chest",
+    "variations": [
+      "tuck",
+      "tucks",
+      "tucked"
+    ],
+    "emoji": "🌀🦵",
+    "id": "gl437"
+  },
+  "tucked pullover": {
+    "word": "tucked pullover",
+    "definition": "a bar skill where the gymnast pulls the knees up in a tuck and rolls the body over the bar into front support",
+    "variations": [
+      "tucked pullover",
+      "tucked pullovers"
+    ],
+    "emoji": "🤸🔄",
+    "id": "gl438"
+  },
+  "tumbling": {
+    "word": "tumbling",
+    "definition": "a series of rolling, flipping, or jumping movements done on the floor.",
+    "variations": [
+      "tumbling"
+    ],
+    "emoji": "🤸🔄",
+    "id": "gl439"
+  },
+  "turn": {
+    "word": "turn",
+    "definition": "A movement where a gymnast rotates the body while staying balanced.",
+    "variations": [
+      "turn",
+      "turns",
+      "turning"
+    ],
+    "emoji": "🔄🩰",
+    "id": "gl440"
+  },
+  "turnover": {
+    "word": "turnover",
+    "definition": "a moment when one team loses the ball and the other team gains it",
+    "variations": [
+      "turnover",
+      "turnovers"
+    ],
+    "emoji": "🔄🏀",
+    "id": "gl441"
+  },
+  "umpire": {
+    "word": "umpire",
+    "definition": "an official who makes sure the rules are followed in a game",
+    "variations": [
+      "umpire",
+      "umpires"
+    ],
+    "emoji": "🧑‍⚖️📣",
+    "id": "gl442"
+  },
+  "underhand grip": {
+    "word": "underhand grip",
+    "definition": "a way of holding a bar with the palms facing toward the body",
+    "variations": [
+      "underhand grip",
+      "underhand grips"
+    ],
+    "emoji": "🤲🏋️",
+    "id": "gl443"
+  },
+  "undulating": {
+    "word": "undulating",
+    "definition": "moving in a smooth wave-like way",
+    "variations": [
+      "undulate",
+      "undulates",
+      "undulated",
+      "undulating",
+      "undulation"
+    ],
+    "emoji": "〰️🌊",
+    "id": "gl444"
+  },
+  "uneven bars": {
+    "word": "uneven bars",
+    "definition": "Uneven bars are a gymnastics apparatus with two horizontal bars set at different heights.",
+    "variations": [
+      "uneven bar",
+      "uneven bars"
+    ],
+    "emoji": "🤸📏",
+    "id": "gl445"
+  },
+  "uniform": {
+    "word": "uniform",
+    "definition": "special clothes worn by members of the same team, school, or group",
+    "variations": [
+      "uniform",
+      "uniforms"
+    ],
+    "emoji": "👕🎽",
+    "id": "gl446"
+  },
+  "unsporting behaviour": {
+    "word": "unsporting behaviour",
+    "definition": "rude or unfair behaviour that goes against the spirit of the game",
+    "variations": [
+      "unsporting behaviour",
+      "unsporting behavior"
+    ],
+    "emoji": "😠🚫",
+    "id": "gl447"
+  },
+  "upright": {
+    "word": "upright",
+    "definition": "standing straight up in a vertical position",
+    "variations": [
+      "upright",
+      "uprights"
+    ],
+    "emoji": "🧍⬆️",
+    "id": "gl448"
+  },
+  "V-grip": {
+    "word": "V-grip",
+    "definition": "a way of holding the javelin between the index and middle fingers in a V shape",
+    "variations": [
+      "V-grip",
+      "V-grips"
+    ],
+    "emoji": "✌️🗡️",
+    "id": "gl449"
+  },
+  "V-sit": {
+    "word": "V-sit",
+    "definition": "A position where the body forms a V shape, usually supported by the hands with the legs lifted.",
+    "variations": [
+      "V-sit",
+      "V-sits"
+    ],
+    "emoji": "🔺💪",
+    "id": "gl450"
+  },
+  "valid attempt": {
+    "word": "valid attempt",
+    "definition": "a jump that follows the rules and is allowed to be measured.",
+    "variations": [
+      "valid attempt",
+      "valid attempts"
+    ],
+    "emoji": "✅📏",
+    "id": "gl451"
+  },
+  "vault": {
+    "word": "vault",
+    "definition": "A vault is a gymnastics event where the gymnast pushes off a vaulting table and lands after a jump, flip, or twist.",
+    "variations": [
+      "vault",
+      "vaults",
+      "vaulting"
+    ],
+    "emoji": "🤸🛫",
+    "id": "gl452"
+  },
+  "vault table": {
+    "word": "vault table",
+    "definition": "the padded apparatus a gymnast pushes off during a vault.",
+    "variations": [
+      "vault table",
+      "vault tables"
+    ],
+    "emoji": "🧱🤸",
+    "id": "gl453"
+  },
+  "vaulting table": {
+    "word": "vaulting table",
+    "definition": "A vaulting table is the padded apparatus a gymnast pushes off during a vault.",
+    "variations": [
+      "vaulting table",
+      "vaulting tables"
+    ],
+    "emoji": "🟫🤸",
+    "id": "gl454"
+  },
+  "vertical": {
+    "word": "vertical",
+    "definition": "moving or pointing up and down.",
+    "variations": [
+      "vertical",
+      "vertically"
+    ],
+    "emoji": "↕️📏",
+    "id": "gl455"
+  },
+  "vertical jump": {
+    "word": "vertical jump",
+    "definition": "a jump in which the athlete tries to go as high as possible.",
+    "variations": [
+      "vertical jump",
+      "vertical jumps"
+    ],
+    "emoji": "⬆️🏃",
+    "id": "gl456"
+  },
+  "warm up": {
+    "word": "warm up",
+    "definition": "simple exercises done before activity to prepare the body",
+    "variations": [
+      "warm up",
+      "warm-up",
+      "warming up"
+    ],
+    "emoji": "🔥🏃",
+    "id": "gl457"
+  },
+  "warm-up": {
+    "word": "warm-up",
+    "definition": "light exercise done before playing or training to prepare the body",
+    "variations": [
+      "warm-up",
+      "warm-ups"
+    ],
+    "emoji": "🏃🔥",
+    "id": "gl458"
+  },
+  "western roll": {
+    "word": "western roll",
+    "definition": "an older high jump technique where the athlete rolls the body sideways over the bar",
+    "variations": [
+      "western roll",
+      "western rolls"
+    ],
+    "emoji": "↩️🏅",
+    "id": "gl459"
+  },
+  "whistle": {
+    "word": "whistle",
+    "definition": "a small tool that makes a sharp sound to signal the start or stop of play",
+    "variations": [
+      "whistle",
+      "whistles"
+    ],
+    "emoji": "📯⏱️",
+    "id": "gl460"
+  },
+  "wind gauge": {
+    "word": "wind gauge",
+    "definition": "a tool used to measure the speed of the wind.",
+    "variations": [
+      "wind gauge",
+      "wind gauges"
+    ],
+    "emoji": "🌬️📏",
+    "id": "gl461"
+  },
+  "wind indicator": {
+    "word": "wind indicator",
+    "definition": "a tool that shows the direction or strength of the wind",
+    "variations": [
+      "wind indicator",
+      "wind indicators"
+    ],
+    "emoji": "🌬️🚩",
+    "id": "gl462"
+  },
+  "wing attack": {
+    "word": "wing attack",
+    "definition": "the player who passes the ball into the shooting area and creates space in attack",
+    "variations": [
+      "wing attack",
+      "wing attacks",
+      "WA"
+    ],
+    "emoji": "🏀➡️",
+    "id": "gl463"
+  },
+  "wing defense": {
+    "word": "wing defense",
+    "definition": "the player who marks the wing attack and tries to stop passes into the shooting area",
+    "variations": [
+      "wing defense",
+      "wing defenses",
+      "wing defence",
+      "wing defences",
+      "WD"
+    ],
+    "emoji": "🛡️➡️",
+    "id": "gl464"
+  },
+  "wrist": {
+    "word": "wrist",
+    "definition": "The joint that connects the hand to the arm.",
+    "variations": [
+      "wrist",
+      "wrists"
+    ],
+    "emoji": "✋💪",
+    "id": "gl465"
+  },
+  "wrist guard": {
+    "word": "wrist guard",
+    "definition": "protective support worn on the wrist to help prevent injury",
+    "variations": [
+      "wrist guard",
+      "wrist guards",
+      "wristguard",
+      "wristguards"
+    ],
+    "emoji": "🩺✋",
+    "id": "gl466"
+  },
+  "wrist rotation": {
+    "word": "wrist rotation",
+    "definition": "the turning movement of the wrist",
+    "variations": [
+      "wrist rotation",
+      "wrist rotations"
+    ],
+    "emoji": "🖐️🔄",
+    "id": "gl467"
+  }
+}
